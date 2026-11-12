@@ -1,0 +1,58 @@
+role_title,skill_name,importance
+ML Engineer,Python,5
+ML Engineer,Machine Learning,5
+ML Engineer,Deep Learning,4
+ML Engineer,Feature Engineering,3
+ML Engineer,MLOps,4
+ML Engineer,Linear Algebra,3
+ML Engineer,Statistics,3
+Backend Engineer,REST APIs,5
+Backend Engineer,SQL,5
+Backend Engineer,System Design,4
+Backend Engineer,Java,3
+Backend Engineer,Node.js,3
+Backend Engineer,Docker,3
+Backend Engineer,Git,3
+Data Engineer,SQL,5
+Data Engineer,Big Data,5
+Data Engineer,Spark,4
+Data Engineer,Data Modeling,4
+Data Engineer,Python,4
+Data Engineer,Cloud Computing,3
+Data Scientist,Python,5
+Data Scientist,Statistics,5
+Data Scientist,Machine Learning,4
+Data Scientist,Data Visualization,4
+Data Scientist,Probability,3
+Data Scientist,SQL,3
+Cloud and DevOps Engineer,Cloud Computing,5
+Cloud and DevOps Engineer,Docker,4
+Cloud and DevOps Engineer,Kubernetes,4
+Cloud and DevOps Engineer,Operating Systems,3
+Cloud and DevOps Engineer,Networking,4
+Cloud and DevOps Engineer,Git,3
+Security Engineer,Network Security,5
+Security Engineer,Cryptography,4
+Security Engineer,Ethical Hacking,4
+Security Engineer,Operating Systems,3
+Security Engineer,Networking,3
+Full-stack Developer,JavaScript Frameworks,5
+Full-stack Developer,React,4
+Full-stack Developer,Node.js,4
+Full-stack Developer,REST APIs,4
+Full-stack Developer,SQL,3
+Full-stack Developer,Git,3
+GenAI Engineer,NLP,5
+GenAI Engineer,Deep Learning,4
+GenAI Engineer,LLM Engineering,5
+GenAI Engineer,Python,4
+GenAI Engineer,MLOps,3
+Software Development Engineer,Data Structures,5
+Software Development Engineer,Algorithm Design,5
+Software Development Engineer,Dynamic Programming,3
+Software Development Engineer,Java,3
+Software Development Engineer,System Design,3
+Software Development Engineer,Competitive Programming,2
+QA Automation Engineer,Software Testing,5
+QA Automation Engineer,Python,3
+QA Automation Engineer,Agile,3

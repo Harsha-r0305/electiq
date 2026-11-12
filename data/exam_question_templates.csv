@@ -1,0 +1,9 @@
+template,marks,difficulty,topic_pattern
+"Differentiate between {skill1} and {skill2} with one example each.",5,3,Comparison
+"Explain the design principles and practical use cases of {skill1} in modern software.",8,3,Design
+"How does {skill1} address performance bottlenecks and concurrency issues?",10,4,Performance
+"Solve a problem where {skill1} and {skill2} are integrated into a single pipeline.",10,5,Problem Solving
+"Analyze the theoretical underpinnings and worst-case complexity of {skill1}.",5,3,Analysis
+"What are the common failure modes of {skill1} and how can they be mitigated?",5,3,Reliability
+"Write an algorithm or pseudocode utilizing {skill1} to optimize resource usage.",8,4,Optimization
+"Compare {skill1} against alternative paradigms for {title}.",5,2,Fundamentals

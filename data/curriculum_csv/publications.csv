@@ -1,0 +1,11 @@
+pub_id,student_id,title,type,year
+1,1,A study of Transformers and LLM fine-tuning,preprint,2025
+2,2,A study of Explainability and Fairness/bias,preprint,2026
+3,3,A study of Prompt engineering and Structured outputs,preprint,2026
+4,4,A study of Photonics design and Signal processing,preprint,2026
+5,8,A study of ROS/ROS2 and Robot perception,workshop,2026
+6,9,A study of Differential privacy and Federated learning,preprint,2026
+7,10,A study of Cloud security and Network security,conference,2026
+8,11,A study of Deep RL and Policy gradient,preprint,2024
+9,19,A study of Business ML and Data analytics/visualization,preprint,2025
+10,22,A study of Deep RL and Policy gradient,workshop,2026

@@ -1,0 +1,47 @@
+name,category
+Python,Programming
+C++,Programming
+Java,Programming
+JavaScript,Programming
+SQL,Programming
+Git,Programming
+Data Structures,Algorithms
+Algorithm Design,Algorithms
+Graph Algorithms,Algorithms
+Dynamic Programming,Algorithms
+Competitive Programming,Algorithms
+Linear Algebra,Mathematics
+Probability,Mathematics
+Statistics,Mathematics
+Discrete Mathematics,Mathematics
+Optimization,Mathematics
+Machine Learning,AI and ML
+Deep Learning,AI and ML
+NLP,AI and ML
+Computer Vision,AI and ML
+Reinforcement Learning,AI and ML
+Feature Engineering,AI and ML
+MLOps,AI and ML
+LLM Engineering,AI and ML
+Data Modeling,Data
+Query Optimization,Data
+Big Data,Data
+Spark,Data
+Data Visualization,Data
+Operating Systems,Systems
+Concurrency,Systems
+Distributed Systems,Systems
+Cloud Computing,Systems
+Networking,Systems
+Docker,Systems
+Kubernetes,Systems
+Cryptography,Security
+Network Security,Security
+Ethical Hacking,Security
+JavaScript Frameworks,Web
+React,Web
+Node.js,Web
+REST APIs,Web
+System Design,Web
+Software Testing,Engineering
+Agile,Engineering

@@ -1,0 +1,28 @@
+achievement_id,student_id,type,title,organizer,result,year
+1,1,hackathon,Smart India Hackathon,Ministry-led,won,2025
+2,2,hackathon,Inter-college AI Hackathon,PES University,finalist,2024
+3,3,competition,Kaggle competition,Kaggle,finalist,2024
+4,5,hackathon,Inter-college AI Hackathon,PES University,finalist,2025
+5,6,hackathon,Open-source Challenge,Community,participated,2024
+6,7,competition,CTF competition,Security community,won,2024
+7,9,hackathon,Open-source Challenge,Community,won,2025
+8,10,hackathon,Open-source Challenge,Community,participated,2024
+9,11,competition,Kaggle competition,Kaggle,won,2024
+10,12,hackathon,Smart India Hackathon,Ministry-led,won,2025
+11,13,hackathon,Open-source Challenge,Community,won,2024
+12,14,competition,Kaggle competition,Kaggle,won,2024
+13,15,competition,CTF competition,Security community,participated,2024
+14,16,competition,Kaggle competition,Kaggle,won,2024
+15,30,hackathon,Open-source Challenge,Community,finalist,2025
+16,33,hackathon,Inter-college AI Hackathon,PES University,finalist,2025
+17,38,competition,CTF competition,Security community,won,2025
+18,40,hackathon,Inter-college AI Hackathon,PES University,participated,2025
+19,41,competition,CTF competition,Security community,participated,2024
+20,43,competition,CTF competition,Security community,won,2025
+21,44,competition,Kaggle competition,Kaggle,won,2024
+22,45,hackathon,Smart India Hackathon,Ministry-led,won,2025
+23,50,hackathon,Inter-college AI Hackathon,PES University,finalist,2025
+24,52,competition,CTF competition,Security community,won,2024
+25,53,competition,CTF competition,Security community,won,2025
+26,55,competition,Kaggle competition,Kaggle,finalist,2025
+27,59,hackathon,Inter-college AI Hackathon,PES University,participated,2025

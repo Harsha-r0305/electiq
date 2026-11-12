@@ -1,0 +1,19 @@
+company_id,name,company_tier
+1,Google,1
+2,Microsoft,1
+3,Amazon,1
+4,NVIDIA,1
+5,Adobe,1
+6,Goldman Sachs,1
+7,Walmart Global Tech,2
+8,Intuit,2
+9,Salesforce,2
+10,Cisco,2
+11,Oracle,2
+12,Flipkart,2
+13,TCS,3
+14,Infosys,3
+15,Wipro,3
+16,Cognizant,3
+17,Accenture,3
+18,Capgemini,3

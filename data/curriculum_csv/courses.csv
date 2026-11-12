@@ -1,0 +1,51 @@
+course_id,code,title,vertical,level,semester,is_elective,advisor_scope_outlook_1to5,content_source,elective_slot
+1,ML_CORE,Machine Learning (core),core,foundation,,0,,not from provided documents,core
+2,DSA,Data Structures and Algorithms (core),core,foundation,,0,,not from provided documents,core
+3,OS,Operating Systems (core),core,foundation,,0,,not from provided documents,core
+4,COA,Computer Architecture / Microprocessors (core),core,foundation,,0,,not from provided documents,core
+5,COMPNET,Computer Networks (core),core,foundation,,0,,not from provided documents,core
+6,MATH_LINALG,Mathematics and Linear Algebra (core),core,foundation,,0,,not from provided documents,core
+7,PROG,Programming in C/C++/Python (core),core,foundation,,0,,not from provided documents,core
+8,CYBER_BASICS,Cybersecurity fundamentals (core),core,foundation,,0,,not from provided documents,core
+9,DBMS,Database Management Systems (core),core,foundation,,0,,not from provided documents,core
+10,UE24AM342AA1,Advanced Foundations for ML,AAML,intermediate,5.0,1,4.0,title only (skills/prereqs inferred),Elective I
+11,UE24AM342AA4,Machine Learning with Business Data,AII,intermediate,5.0,1,4.0,title only (skills/prereqs inferred),Elective I
+12,UE24AM342AA5,ML System Design and AgentOps,AAML+AII,intermediate,5.0,1,5.0,title only (skills/prereqs inferred),Elective I
+13,UE24CS342AA3,Internet of Things,CSCS,intermediate,5.0,1,3.0,title only (skills/prereqs inferred),Elective I
+14,UE24CS342AA4,Applied Cryptography,CSCS,intermediate,5.0,1,3.0,title only (skills/prereqs inferred),Elective I
+15,UE24CS342AA5,Augmented and Virtual Reality,CSCS,intermediate,5.0,1,2.0,title only (skills/prereqs inferred),Elective I
+16,UE24CS342AA7,Modern Wireless and 5G Systems,CSCS,intermediate,5.0,1,3.0,title only (skills/prereqs inferred),Elective I
+17,UE24EC342AB4,Chip level Photonics,NICE,intermediate,5.0,1,2.0,title only (skills/prereqs inferred),Elective I
+18,UE24EC342AC1,Digital Image Processing,SPaSE,intermediate,5.0,1,3.0,title only (skills/prereqs inferred),Elective I
+19,UE24EC342AC2,Speech and Natural Language Processing,SPaSE,intermediate,5.0,1,4.0,title only (skills/prereqs inferred),Elective I
+20,UE24AM343AB1,Advanced Data Analytics,AAML,intermediate,5.0,1,3.0,title only (skills/prereqs inferred),Elective II
+21,UE24AM343AB3,Big Data Systems and Responsible AI Engineering,AAML,intermediate,5.0,1,4.0,title only (skills/prereqs inferred),Elective II
+22,UE24AM343AB5,Prompt Engineering for Generative AI,AAML+AII,intermediate,5.0,1,3.0,title only (skills/prereqs inferred),Elective II
+23,UE24CS343AB5,Intelligent Vehicle: Connectivity and Cyber Security,CSCS,intermediate,5.0,1,3.0,title only (skills/prereqs inferred),Elective II
+24,UE24CS343AB6,Computer Network Security,CSCS,intermediate,5.0,1,4.0,title only (skills/prereqs inferred),Elective II
+25,UE24CS343AB7,ROS for Autonomous Systems,CSCS,intermediate,5.0,1,3.0,title only (skills/prereqs inferred),Elective II
+26,UE24CS343AB9,Design of RTOS,CSCS,intermediate,5.0,1,3.0,title only (skills/prereqs inferred),Elective II
+27,UE24EC343AB2,Real Time Operating Systems,NICE,intermediate,5.0,1,3.0,title only (skills/prereqs inferred),Elective II
+28,UE24EC343AB3,Quantum Entanglement and Quantum Computing,NICE,intermediate,5.0,1,2.0,title only (skills/prereqs inferred),Elective II
+29,UE24EC343AC2,Robotic Systems: From Arms to Drones,SPaSE,intermediate,5.0,1,3.0,title only (skills/prereqs inferred),Elective II
+30,UE24AM342BA1,"LLM and Their Applications: Design, Optimization, and Evaluation",AAML,advanced,4.0,1,5.0,full syllabus provided,Elective III
+31,UE24AM342BA2,Deep Reinforcement Learning,AAML,advanced,4.0,1,3.0,full syllabus provided,Elective III
+32,UE24AM342BA3,Explainable AI,AAML+AII,advanced,4.0,1,3.0,full syllabus provided,Elective III
+33,UE24AM342BA4,Deep Learning for Images,AAML,advanced,4.0,1,4.0,full syllabus provided,Elective III
+34,UE24AM342BA5,Deep Learning for Life Sciences,AII,advanced,4.0,1,3.0,full syllabus provided,Elective III
+35,UE24AM342BA6,Privacy Preserving Machine Learning,AII,advanced,4.0,1,3.0,full syllabus provided,Elective III
+36,UE24CS342BA3,Design of Secure Platform and Systems,CSCS,advanced,4.0,1,4.0,full syllabus provided,Elective III
+37,UE24CS342BA5,Block Chain,CSCS,advanced,4.0,1,2.0,full syllabus provided,Elective III
+38,UE24CS342BA6,Digital Forensics and Incident Response,CSCS,advanced,4.0,1,3.0,full syllabus provided,Elective III
+39,UE24CS342BA7,Digital Twins,CSCS,advanced,4.0,1,3.0,full syllabus provided,Elective III
+40,UE24CS342BA8,Responsible AI,CSCS,advanced,4.0,1,4.0,full syllabus provided,Elective III
+41,UE24AM343BB1,Interdisciplinary Deep Learning for Graphs,AAML,advanced,4.0,1,3.0,full syllabus provided,Elective IV
+42,UE24AM343BB2,Social Computing,AAML,advanced,4.0,1,2.0,full syllabus provided,Elective IV
+43,UE24AM343BB3,Foundations of Frugal Artificial Intelligence,AAML,advanced,4.0,1,3.0,full syllabus provided,Elective IV
+44,UE24AM343BB4,Machine Learning for Finance,AII,advanced,4.0,1,4.0,full syllabus provided,Elective IV
+45,UE24AM343BB5,Supply Chain Analytics and Optimization with AI,AII,advanced,4.0,1,3.0,full syllabus provided,Elective IV
+46,UE24AM343BB6,Agentic AI and Multi-Agent AI System,AAML+AII,advanced,4.0,1,5.0,full syllabus provided,Elective IV
+47,UE24CS343BB6,Information Security,CSCS,advanced,4.0,1,4.0,full syllabus provided,Elective IV
+48,UE24CS343BB7,Mobile Autonomous Robotics,CSCS,advanced,4.0,1,3.0,full syllabus provided,Elective IV
+49,UE24CS343BB8,Cybersecurity in Cloud,CSCS,advanced,4.0,1,4.0,full syllabus provided,Elective IV
+50,UE24CS343BB12,SOC and Threat Intelligence,CSCS,advanced,4.0,1,4.0,full syllabus provided,Elective IV

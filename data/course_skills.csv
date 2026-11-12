@@ -1,0 +1,67 @@
+course_code,skill_name,depth
+UE24CS101,Python,3
+UE24CS101,Git,1
+UE24MA102,Linear Algebra,3
+UE24MA103,Probability,3
+UE24MA103,Statistics,3
+UE24MA104,Discrete Mathematics,3
+UE24CS201,Data Structures,3
+UE24CS201,Algorithm Design,2
+UE24CS201,C++,2
+UE24CS202,SQL,3
+UE24CS202,Data Modeling,3
+UE24CS202,Query Optimization,2
+UE24CS203,Operating Systems,3
+UE24CS203,Concurrency,2
+UE24CS204,Networking,3
+UE24CS205,Agile,3
+UE24CS205,Software Testing,2
+UE24CS205,Git,2
+UE24CS301,Algorithm Design,3
+UE24CS301,Graph Algorithms,3
+UE24CS301,Dynamic Programming,3
+UE24CS301,Competitive Programming,2
+UE24CS302,Machine Learning,3
+UE24CS302,Python,2
+UE24CS302,Statistics,2
+UE24CS302,Feature Engineering,2
+UE24CS303,Machine Learning,3
+UE24CS303,Optimization,3
+UE24CS303,Linear Algebra,2
+UE24CS304,Deep Learning,3
+UE24CS304,Optimization,2
+UE24CS305,NLP,3
+UE24CS305,Deep Learning,2
+UE24CS306,Computer Vision,3
+UE24CS306,Deep Learning,2
+UE24CS307,Reinforcement Learning,3
+UE24CS307,Probability,2
+UE24CS308,Big Data,3
+UE24CS308,Spark,2
+UE24CS308,Data Visualization,2
+UE24CS308,SQL,2
+UE24CS309,Cloud Computing,3
+UE24CS309,Distributed Systems,1
+UE24CS310,Distributed Systems,3
+UE24CS310,Concurrency,2
+UE24CS311,JavaScript Frameworks,3
+UE24CS311,React,2
+UE24CS311,Node.js,2
+UE24CS311,REST APIs,3
+UE24CS312,System Design,3
+UE24CS312,REST APIs,2
+UE24CS312,Distributed Systems,1
+UE24CS313,Cryptography,3
+UE24CS313,Network Security,3
+UE24CS314,Ethical Hacking,3
+UE24CS314,Network Security,2
+UE24CS315,Query Optimization,3
+UE24CS315,Data Modeling,2
+UE24CS315,Distributed Systems,1
+UE24CS316,Java,3
+UE24CS316,REST APIs,2
+UE24CS317,Software Testing,3
+UE24CS317,Python,1
+UE24EC301,C++,2
+UE24EC302,Networking,1
+UE24EC302,Cloud Computing,1

@@ -1,0 +1,194 @@
+course_id,code,skill_id,skill,depth,basis
+10,UE24AM342AA1,4,ML theory,3,inferred
+10,UE24AM342AA1,5,Linear algebra and optimization,3,inferred
+10,UE24AM342AA1,6,Research methods,2,inferred
+10,UE24AM342AA1,1,Python,2,inferred
+11,UE24AM342AA4,33,Business ML,3,inferred
+11,UE24AM342AA4,32,Data analytics/visualization,2,inferred
+11,UE24AM342AA4,30,SQL/data modeling,2,inferred
+11,UE24AM342AA4,34,Time series,2,inferred
+11,UE24AM342AA4,1,Python,2,inferred
+12,UE24AM342AA5,21,ML pipelines/CI-CD,3,inferred
+12,UE24AM342AA5,22,Model serving,3,inferred
+12,UE24AM342AA5,23,Drift monitoring,3,inferred
+12,UE24AM342AA5,24,LLMOps observability,3,inferred
+12,UE24AM342AA5,25,Docker/Kubernetes,2,inferred
+12,UE24AM342AA5,26,Feature stores,2,inferred
+12,UE24AM342AA5,1,Python,2,inferred
+13,UE24CS342AA3,80,IoT protocols,3,inferred
+13,UE24CS342AA3,82,Embedded C,2,inferred
+13,UE24CS342AA3,86,Wireless/5G,1,inferred
+13,UE24CS342AA3,78,Firmware/SoC,1,inferred
+14,UE24CS342AA4,74,Applied cryptography,3,inferred
+14,UE24CS342AA4,73,Network security,2,inferred
+14,UE24CS342AA4,64,Secure coding,1,inferred
+15,UE24CS342AA5,90,AR/VR development,3,inferred
+15,UE24CS342AA5,89,3D view synthesis,1,inferred
+15,UE24CS342AA5,43,Image processing,1,inferred
+16,UE24CS342AA7,86,Wireless/5G,3,inferred
+16,UE24CS342AA7,94,Signal processing,2,inferred
+16,UE24CS342AA7,73,Network security,1,inferred
+17,UE24EC342AB4,91,Photonics design,3,inferred
+17,UE24EC342AB4,94,Signal processing,1,inferred
+18,UE24EC342AC1,43,Image processing,3,inferred
+18,UE24EC342AC1,94,Signal processing,2,inferred
+18,UE24EC342AC1,44,CNNs,1,inferred
+19,UE24EC342AC2,93,Speech processing,3,inferred
+19,UE24EC342AC2,53,Text mining/NLP,2,inferred
+19,UE24EC342AC2,94,Signal processing,2,inferred
+19,UE24EC342AC2,2,PyTorch,1,inferred
+20,UE24AM343AB1,32,Data analytics/visualization,3,inferred
+20,UE24AM343AB1,34,Time series,2,inferred
+20,UE24AM343AB1,33,Business ML,2,inferred
+20,UE24AM343AB1,30,SQL/data modeling,2,inferred
+20,UE24AM343AB1,1,Python,2,inferred
+21,UE24AM343AB3,27,Spark,3,inferred
+21,UE24AM343AB3,28,Kafka/streaming,2,inferred
+21,UE24AM343AB3,29,Lakehouse,3,inferred
+21,UE24AM343AB3,30,SQL/data modeling,3,inferred
+21,UE24AM343AB3,31,Data governance,2,inferred
+21,UE24AM343AB3,35,Fairness/bias,3,inferred
+21,UE24AM343AB3,36,Privacy/compliance,2,inferred
+22,UE24AM343AB5,13,Prompt engineering,3,inferred
+22,UE24AM343AB5,20,Structured outputs,2,inferred
+22,UE24AM343AB5,9,RAG,1,inferred
+22,UE24AM343AB5,11,LLM evaluation,1,inferred
+23,UE24CS343AB5,87,Vehicle networks,3,inferred
+23,UE24CS343AB5,73,Network security,2,inferred
+23,UE24CS343AB5,82,Embedded C,1,inferred
+23,UE24CS343AB5,65,Threat modelling,1,inferred
+24,UE24CS343AB6,73,Network security,3,inferred
+24,UE24CS343AB6,74,Applied cryptography,2,inferred
+24,UE24CS343AB6,67,Penetration testing,1,inferred
+24,UE24CS343AB6,65,Threat modelling,1,inferred
+25,UE24CS343AB7,83,ROS/ROS2,3,inferred
+25,UE24CS343AB7,85,Robot perception,2,inferred
+25,UE24CS343AB7,84,SLAM/navigation,1,inferred
+25,UE24CS343AB7,1,Python,2,inferred
+26,UE24CS343AB9,81,RTOS,3,inferred
+26,UE24CS343AB9,82,Embedded C,3,inferred
+26,UE24CS343AB9,78,Firmware/SoC,1,inferred
+27,UE24EC343AB2,81,RTOS,3,inferred
+27,UE24EC343AB2,82,Embedded C,2,inferred
+28,UE24EC343AB3,92,Quantum computing,3,inferred
+28,UE24EC343AB3,5,Linear algebra and optimization,2,inferred
+29,UE24EC343AC2,85,Robot perception,2,inferred
+29,UE24EC343AC2,84,SLAM/navigation,2,inferred
+29,UE24EC343AC2,83,ROS/ROS2,1,inferred
+29,UE24EC343AC2,5,Linear algebra and optimization,1,inferred
+30,UE24AM342BA1,7,Transformers,3,syllabus
+30,UE24AM342BA1,8,LLM fine-tuning,3,syllabus
+30,UE24AM342BA1,9,RAG,3,syllabus
+30,UE24AM342BA1,10,RLHF/DPO,3,syllabus
+30,UE24AM342BA1,11,LLM evaluation,3,syllabus
+30,UE24AM342BA1,12,Multimodal models,2,syllabus
+30,UE24AM342BA1,2,PyTorch,3,syllabus
+30,UE24AM342BA1,1,Python,2,syllabus
+31,UE24AM342BA2,47,Deep RL,3,syllabus
+31,UE24AM342BA2,48,Policy gradient,3,syllabus
+31,UE24AM342BA2,49,Multi-agent RL,2,syllabus
+31,UE24AM342BA2,2,PyTorch,2,syllabus
+31,UE24AM342BA2,1,Python,2,syllabus
+32,UE24AM342BA3,37,Explainability,3,syllabus
+32,UE24AM342BA3,35,Fairness/bias,1,syllabus
+32,UE24AM342BA3,53,Text mining/NLP,1,syllabus
+32,UE24AM342BA3,1,Python,2,syllabus
+33,UE24AM342BA4,43,Image processing,3,syllabus
+33,UE24AM342BA4,44,CNNs,3,syllabus
+33,UE24AM342BA4,45,Object detection,3,syllabus
+33,UE24AM342BA4,46,Generative image models,3,syllabus
+33,UE24AM342BA4,7,Transformers,2,syllabus
+33,UE24AM342BA4,3,TensorFlow/Keras,2,syllabus
+33,UE24AM342BA4,2,PyTorch,2,syllabus
+34,UE24AM342BA5,54,Medical imaging DL,3,syllabus
+34,UE24AM342BA5,55,Cheminformatics,3,syllabus
+34,UE24AM342BA5,56,Genomics/proteins,3,syllabus
+34,UE24AM342BA5,57,Drug discovery generative,2,syllabus
+34,UE24AM342BA5,50,Graph neural nets,1,syllabus
+34,UE24AM342BA5,2,PyTorch,2,syllabus
+35,UE24AM342BA6,38,Differential privacy,3,syllabus
+35,UE24AM342BA6,39,Federated learning,2,syllabus
+35,UE24AM342BA6,36,Privacy/compliance,2,syllabus
+35,UE24AM342BA6,40,Adversarial ML,1,syllabus
+35,UE24AM342BA6,1,Python,2,syllabus
+36,UE24CS342BA3,77,Platform security (TEE),3,syllabus
+36,UE24CS342BA3,78,Firmware/SoC,3,syllabus
+36,UE24CS342BA3,79,Linux internals,2,syllabus
+36,UE24CS342BA3,74,Applied cryptography,2,syllabus
+36,UE24CS342BA3,82,Embedded C,2,syllabus
+37,UE24CS342BA5,75,Smart contracts,3,syllabus
+37,UE24CS342BA5,76,Consensus protocols,3,syllabus
+37,UE24CS342BA5,74,Applied cryptography,2,syllabus
+37,UE24CS342BA5,66,Web security,1,syllabus
+38,UE24CS342BA6,69,Digital forensics,3,syllabus
+38,UE24CS342BA6,71,Incident response,2,syllabus
+38,UE24CS342BA6,79,Linux internals,1,syllabus
+38,UE24CS342BA6,68,Malware analysis,1,syllabus
+38,UE24CS342BA6,73,Network security,1,syllabus
+39,UE24CS342BA7,88,Digital twins/simulation,3,syllabus
+39,UE24CS342BA7,89,3D view synthesis,3,syllabus
+39,UE24CS342BA7,34,Time series,1,syllabus
+39,UE24CS342BA7,65,Threat modelling,1,syllabus
+39,UE24CS342BA7,1,Python,2,syllabus
+40,UE24CS342BA8,42,AI governance,3,syllabus
+40,UE24CS342BA8,35,Fairness/bias,3,syllabus
+40,UE24CS342BA8,40,Adversarial ML,3,syllabus
+40,UE24CS342BA8,41,LLM security,3,syllabus
+40,UE24CS342BA8,36,Privacy/compliance,2,syllabus
+40,UE24CS342BA8,37,Explainability,2,syllabus
+40,UE24CS342BA8,19,Guardrails and agent evals,1,syllabus
+41,UE24AM343BB1,50,Graph neural nets,3,syllabus
+41,UE24AM343BB1,51,Knowledge graphs,3,syllabus
+41,UE24AM343BB1,2,PyTorch,3,syllabus
+41,UE24AM343BB1,1,Python,2,syllabus
+42,UE24AM343BB2,52,Social network analysis,3,syllabus
+42,UE24AM343BB2,53,Text mining/NLP,3,syllabus
+42,UE24AM343BB2,7,Transformers,2,syllabus
+42,UE24AM343BB2,50,Graph neural nets,2,syllabus
+42,UE24AM343BB2,35,Fairness/bias,1,syllabus
+43,UE24AM343BB3,58,Model compression,3,syllabus
+43,UE24AM343BB3,59,TinyML deployment,3,syllabus
+43,UE24AM343BB3,60,Efficient architectures,3,syllabus
+43,UE24AM343BB3,82,Embedded C,1,syllabus
+43,UE24AM343BB3,1,Python,2,syllabus
+44,UE24AM343BB4,61,Quant finance ML,3,syllabus
+44,UE24AM343BB4,34,Time series,3,syllabus
+44,UE24AM343BB4,47,Deep RL,2,syllabus
+44,UE24AM343BB4,50,Graph neural nets,1,syllabus
+44,UE24AM343BB4,9,RAG,1,syllabus
+44,UE24AM343BB4,1,Python,2,syllabus
+45,UE24AM343BB5,62,Operations research,3,syllabus
+45,UE24AM343BB5,63,Demand forecasting,3,syllabus
+45,UE24AM343BB5,34,Time series,2,syllabus
+45,UE24AM343BB5,47,Deep RL,2,syllabus
+45,UE24AM343BB5,14,Agent patterns,1,syllabus
+45,UE24AM343BB5,1,Python,2,syllabus
+46,UE24AM343BB6,14,Agent patterns,3,syllabus
+46,UE24AM343BB6,15,Tool use,3,syllabus
+46,UE24AM343BB6,16,Multi-agent systems,3,syllabus
+46,UE24AM343BB6,17,Agent frameworks,3,syllabus
+46,UE24AM343BB6,18,Agent protocols,2,syllabus
+46,UE24AM343BB6,19,Guardrails and agent evals,3,syllabus
+46,UE24AM343BB6,20,Structured outputs,2,syllabus
+46,UE24AM343BB6,9,RAG,2,syllabus
+46,UE24AM343BB6,1,Python,2,syllabus
+47,UE24CS343BB6,64,Secure coding,3,syllabus
+47,UE24CS343BB6,65,Threat modelling,3,syllabus
+47,UE24CS343BB6,66,Web security,3,syllabus
+47,UE24CS343BB6,67,Penetration testing,2,syllabus
+47,UE24CS343BB6,68,Malware analysis,2,syllabus
+47,UE24CS343BB6,79,Linux internals,2,syllabus
+48,UE24CS343BB7,83,ROS/ROS2,3,syllabus
+48,UE24CS343BB7,84,SLAM/navigation,3,syllabus
+48,UE24CS343BB7,85,Robot perception,3,syllabus
+48,UE24CS343BB7,1,Python,2,syllabus
+48,UE24CS343BB7,82,Embedded C,1,syllabus
+49,UE24CS343BB8,72,Cloud security,3,syllabus
+49,UE24CS343BB8,73,Network security,2,syllabus
+49,UE24CS343BB8,65,Threat modelling,1,syllabus
+49,UE24CS343BB8,25,Docker/Kubernetes,1,syllabus
+50,UE24CS343BB12,70,SOC/SIEM,3,syllabus
+50,UE24CS343BB12,71,Incident response,3,syllabus
+50,UE24CS343BB12,69,Digital forensics,1,syllabus
+50,UE24CS343BB12,73,Network security,2,syllabus
+50,UE24CS343BB12,68,Malware analysis,1,syllabus

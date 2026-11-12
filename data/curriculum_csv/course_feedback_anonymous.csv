@@ -1,0 +1,241 @@
+feedback_id,course_id,difficulty,workload,usefulness,review_text,course_code
+1,19,3,4,4,"Useful for placements in the right role, ask seniors who took it",UE24EC342AC2
+2,28,4,2,4,"Take this only if you like hands-on work, theory is light",UE24EC343AB3
+3,30,3,2,4,Concepts from LLM and Their Applications came up directly in interviews,UE24AM342BA1
+4,43,4,2,4,"Good lecturer, assignments are tough but fair",UE24AM343BB3
+5,12,4,3,4,"Good lecturer, assignments are tough but fair",UE24AM342AA5
+6,20,4,3,4,Concepts from Advanced Data Analytics came up directly in interviews,UE24AM343AB1
+7,32,4,2,5,Labs were the best part; start the Explainable AI project early,UE24AM342BA3
+8,43,4,3,4,"Good lecturer, assignments are tough but fair",UE24AM343BB3
+9,18,3,3,4,"Heavy workload in the second half, plan your weeks",UE24EC342AC1
+10,22,3,3,5,Concepts from Prompt Engineering for Generative AI came up directly in interviews,UE24AM343AB5
+11,33,3,1,4,"Good lecturer, assignments are tough but fair",UE24AM342BA4
+12,46,3,4,4,Concepts from Agentic AI and Multi-Agent AI System came up directly in interviews,UE24AM343BB6
+13,17,4,4,5,"Take this only if you like hands-on work, theory is light",UE24EC342AB4
+14,26,3,3,3,Labs were the best part; start the Design of RTOS project early,UE24CS343AB9
+15,40,3,2,5,"Heavy workload in the second half, plan your weeks",UE24CS342BA8
+16,50,3,4,3,"Useful for placements in the right role, ask seniors who took it",UE24CS343BB12
+17,18,2,4,4,"Take this only if you like hands-on work, theory is light",UE24EC342AC1
+18,20,4,3,4,"Useful for placements in the right role, ask seniors who took it",UE24AM343AB1
+19,32,4,3,4,Labs were the best part; start the Explainable AI project early,UE24AM342BA3
+20,42,4,2,4,Labs were the best part; start the Social Computing project early,UE24AM343BB2
+21,14,5,3,5,Exam is moderate; the project decides your grade,UE24CS342AA4
+22,25,3,3,4,Concepts from ROS for Autonomous Systems came up directly in interviews,UE24CS343AB7
+23,39,4,4,4,Concepts from Digital Twins came up directly in interviews,UE24CS342BA7
+24,47,3,4,4,"Take this only if you like hands-on work, theory is light",UE24CS343BB6
+25,10,4,3,4,Exam is moderate; the project decides your grade,UE24AM342AA1
+26,20,4,4,4,"Heavy workload in the second half, plan your weeks",UE24AM343AB1
+27,32,3,3,4,"Good lecturer, assignments are tough but fair",UE24AM342BA3
+28,41,3,3,4,Concepts from Interdisciplinary Deep Learning for Graphs came up directly in interviews,UE24AM343BB1
+29,12,4,5,4,"Take this only if you like hands-on work, theory is light",UE24AM342AA5
+30,25,4,4,4,"Heavy workload in the second half, plan your weeks",UE24CS343AB7
+31,39,3,2,4,"Heavy workload in the second half, plan your weeks",UE24CS342BA7
+32,49,5,5,5,"Heavy workload in the second half, plan your weeks",UE24CS343BB8
+33,19,4,4,4,"Take this only if you like hands-on work, theory is light",UE24EC342AC2
+34,28,2,5,4,Exam is moderate; the project decides your grade,UE24EC343AB3
+35,35,3,4,5,Exam is moderate; the project decides your grade,UE24AM342BA6
+36,46,3,4,4,Exam is moderate; the project decides your grade,UE24AM343BB6
+37,13,2,4,4,Exam is moderate; the project decides your grade,UE24CS342AA3
+38,23,3,4,5,"Take this only if you like hands-on work, theory is light",UE24CS343AB5
+39,40,4,3,5,"Good lecturer, assignments are tough but fair",UE24CS342BA8
+40,49,4,5,4,"Good lecturer, assignments are tough but fair",UE24CS343BB8
+41,14,3,5,4,"Good lecturer, assignments are tough but fair",UE24CS342AA4
+42,21,3,4,4,"Take this only if you like hands-on work, theory is light",UE24AM343AB3
+43,31,4,3,5,Exam is moderate; the project decides your grade,UE24AM342BA2
+44,43,2,3,4,"Good lecturer, assignments are tough but fair",UE24AM343BB3
+45,16,2,4,4,Exam is moderate; the project decides your grade,UE24CS342AA7
+46,26,2,4,4,Labs were the best part; start the Design of RTOS project early,UE24CS343AB9
+47,39,5,4,3,"Good lecturer, assignments are tough but fair",UE24CS342BA7
+48,49,4,4,5,Exam is moderate; the project decides your grade,UE24CS343BB8
+49,10,4,3,3,Concepts from Advanced Foundations for ML came up directly in interviews,UE24AM342AA1
+50,20,4,3,5,Exam is moderate; the project decides your grade,UE24AM343AB1
+51,32,4,3,4,"Useful for placements in the right role, ask seniors who took it",UE24AM342BA3
+52,46,5,4,4,"Heavy workload in the second half, plan your weeks",UE24AM343BB6
+53,10,3,3,5,Labs were the best part; start the Advanced Foundations for ML project early,UE24AM342AA1
+54,25,3,2,5,Concepts from ROS for Autonomous Systems came up directly in interviews,UE24CS343AB7
+55,39,3,4,4,Concepts from Digital Twins came up directly in interviews,UE24CS342BA7
+56,50,3,3,5,"Good lecturer, assignments are tough but fair",UE24CS343BB12
+57,12,4,5,4,Concepts from ML System Design and AgentOps came up directly in interviews,UE24AM342AA5
+58,21,2,3,4,Concepts from Big Data Systems and Responsible AI Engineering came up directly in interviews,UE24AM343AB3
+59,30,4,3,4,"Good lecturer, assignments are tough but fair",UE24AM342BA1
+60,41,3,4,4,"Take this only if you like hands-on work, theory is light",UE24AM343BB1
+61,14,1,4,5,"Useful for placements in the right role, ask seniors who took it",UE24CS342AA4
+62,27,4,2,5,"Heavy workload in the second half, plan your weeks",UE24EC343AB2
+63,38,4,4,4,Labs were the best part; start the Digital Forensics and Incident Response project early,UE24CS342BA6
+64,49,5,3,4,"Useful for placements in the right role, ask seniors who took it",UE24CS343BB8
+65,13,1,3,4,Exam is moderate; the project decides your grade,UE24CS342AA3
+66,28,5,3,4,Labs were the best part; start the Quantum Entanglement and Quantum Computing project early,UE24EC343AB3
+67,40,3,4,4,"Heavy workload in the second half, plan your weeks",UE24CS342BA8
+68,48,4,4,5,"Good lecturer, assignments are tough but fair",UE24CS343BB7
+69,12,5,4,4,"Take this only if you like hands-on work, theory is light",UE24AM342AA5
+70,26,2,3,4,"Good lecturer, assignments are tough but fair",UE24CS343AB9
+71,30,3,3,4,"Good lecturer, assignments are tough but fair",UE24AM342BA1
+72,42,4,3,5,"Take this only if you like hands-on work, theory is light",UE24AM343BB2
+73,11,2,4,5,"Good lecturer, assignments are tough but fair",UE24AM342AA4
+74,20,5,4,3,Exam is moderate; the project decides your grade,UE24AM343AB1
+75,35,3,3,5,"Heavy workload in the second half, plan your weeks",UE24AM342BA6
+76,45,5,4,4,Concepts from Supply Chain Analytics and Optimization with AI came up directly in interviews,UE24AM343BB5
+77,19,3,2,3,"Take this only if you like hands-on work, theory is light",UE24EC342AC2
+78,20,3,3,3,"Heavy workload in the second half, plan your weeks",UE24AM343AB1
+79,32,4,3,4,Labs were the best part; start the Explainable AI project early,UE24AM342BA3
+80,46,4,3,4,Labs were the best part; start the Agentic AI and Multi-Agent AI System project early,UE24AM343BB6
+81,14,4,3,4,"Take this only if you like hands-on work, theory is light",UE24CS342AA4
+82,21,3,3,5,Exam is moderate; the project decides your grade,UE24AM343AB3
+83,30,3,4,4,Concepts from LLM and Their Applications came up directly in interviews,UE24AM342BA1
+84,41,4,5,4,"Good lecturer, assignments are tough but fair",UE24AM343BB1
+85,11,3,3,3,"Take this only if you like hands-on work, theory is light",UE24AM342AA4
+86,21,4,3,3,"Good lecturer, assignments are tough but fair",UE24AM343AB3
+87,31,3,4,3,"Good lecturer, assignments are tough but fair",UE24AM342BA2
+88,41,3,4,4,Labs were the best part; start the Interdisciplinary Deep Learning for Graphs project early,UE24AM343BB1
+89,19,4,4,4,Concepts from Speech and Natural Language Processing came up directly in interviews,UE24EC342AC2
+90,20,4,5,3,"Take this only if you like hands-on work, theory is light",UE24AM343AB1
+91,31,3,3,4,"Good lecturer, assignments are tough but fair",UE24AM342BA2
+92,42,4,4,5,Labs were the best part; start the Social Computing project early,UE24AM343BB2
+93,11,4,2,4,"Heavy workload in the second half, plan your weeks",UE24AM342AA4
+94,21,5,3,5,"Take this only if you like hands-on work, theory is light",UE24AM343AB3
+95,35,3,3,4,"Take this only if you like hands-on work, theory is light",UE24AM342BA6
+96,44,4,4,3,Exam is moderate; the project decides your grade,UE24AM343BB4
+97,11,4,4,4,"Useful for placements in the right role, ask seniors who took it",UE24AM342AA4
+98,21,4,4,4,Labs were the best part; start the Big Data Systems and Responsible AI Engineering project early,UE24AM343AB3
+99,34,4,2,5,"Useful for placements in the right role, ask seniors who took it",UE24AM342BA5
+100,46,4,3,3,"Heavy workload in the second half, plan your weeks",UE24AM343BB6
+101,18,3,4,3,"Good lecturer, assignments are tough but fair",UE24EC342AC1
+102,21,2,4,4,"Take this only if you like hands-on work, theory is light",UE24AM343AB3
+103,30,3,4,4,Labs were the best part; start the LLM and Their Applications project early,UE24AM342BA1
+104,46,4,4,4,"Good lecturer, assignments are tough but fair",UE24AM343BB6
+105,16,4,3,5,"Take this only if you like hands-on work, theory is light",UE24CS342AA7
+106,25,2,2,5,"Useful for placements in the right role, ask seniors who took it",UE24CS343AB7
+107,39,4,3,4,"Heavy workload in the second half, plan your weeks",UE24CS342BA7
+108,49,3,2,4,"Heavy workload in the second half, plan your weeks",UE24CS343BB8
+109,11,4,3,4,"Heavy workload in the second half, plan your weeks",UE24AM342AA4
+110,20,3,5,4,"Good lecturer, assignments are tough but fair",UE24AM343AB1
+111,32,2,3,5,"Good lecturer, assignments are tough but fair",UE24AM342BA3
+112,42,5,4,5,Exam is moderate; the project decides your grade,UE24AM343BB2
+113,12,3,4,4,Labs were the best part; start the ML System Design and AgentOps project early,UE24AM342AA5
+114,20,4,3,5,"Good lecturer, assignments are tough but fair",UE24AM343AB1
+115,34,3,4,5,"Take this only if you like hands-on work, theory is light",UE24AM342BA5
+116,46,3,2,4,"Good lecturer, assignments are tough but fair",UE24AM343BB6
+117,12,2,4,4,"Heavy workload in the second half, plan your weeks",UE24AM342AA5
+118,29,3,5,4,"Useful for placements in the right role, ask seniors who took it",UE24EC343AC2
+119,30,4,4,4,Exam is moderate; the project decides your grade,UE24AM342BA1
+120,46,3,3,3,Concepts from Agentic AI and Multi-Agent AI System came up directly in interviews,UE24AM343BB6
+121,12,2,4,4,"Useful for placements in the right role, ask seniors who took it",UE24AM342AA5
+122,21,4,4,4,Exam is moderate; the project decides your grade,UE24AM343AB3
+123,31,4,3,5,Exam is moderate; the project decides your grade,UE24AM342BA2
+124,41,3,2,5,"Useful for placements in the right role, ask seniors who took it",UE24AM343BB1
+125,10,3,2,4,"Heavy workload in the second half, plan your weeks",UE24AM342AA1
+126,20,4,4,4,"Take this only if you like hands-on work, theory is light",UE24AM343AB1
+127,33,3,3,4,Labs were the best part; start the Deep Learning for Images project early,UE24AM342BA4
+128,46,3,4,4,"Good lecturer, assignments are tough but fair",UE24AM343BB6
+129,12,4,4,4,"Take this only if you like hands-on work, theory is light",UE24AM342AA5
+130,27,2,3,4,Concepts from Real Time Operating Systems came up directly in interviews,UE24EC343AB2
+131,31,3,5,4,"Good lecturer, assignments are tough but fair",UE24AM342BA2
+132,43,5,3,4,Exam is moderate; the project decides your grade,UE24AM343BB3
+133,11,3,3,4,"Good lecturer, assignments are tough but fair",UE24AM342AA4
+134,22,2,3,4,"Useful for placements in the right role, ask seniors who took it",UE24AM343AB5
+135,34,4,3,5,Exam is moderate; the project decides your grade,UE24AM342BA5
+136,45,4,3,4,"Useful for placements in the right role, ask seniors who took it",UE24AM343BB5
+137,18,3,4,4,"Heavy workload in the second half, plan your weeks",UE24EC342AC1
+138,23,4,4,4,Concepts from Intelligent Vehicle came up directly in interviews,UE24CS343AB5
+139,40,4,4,5,"Heavy workload in the second half, plan your weeks",UE24CS342BA8
+140,50,2,3,5,"Take this only if you like hands-on work, theory is light",UE24CS343BB12
+141,15,3,3,5,"Useful for placements in the right role, ask seniors who took it",UE24CS342AA5
+142,27,3,3,3,"Useful for placements in the right role, ask seniors who took it",UE24EC343AB2
+143,38,3,4,5,"Good lecturer, assignments are tough but fair",UE24CS342BA6
+144,50,3,3,4,Labs were the best part; start the SOC and Threat Intelligence project early,UE24CS343BB12
+145,12,3,4,3,"Good lecturer, assignments are tough but fair",UE24AM342AA5
+146,21,2,3,4,Labs were the best part; start the Big Data Systems and Responsible AI Engineering project early,UE24AM343AB3
+147,30,3,3,5,"Good lecturer, assignments are tough but fair",UE24AM342BA1
+148,43,2,4,4,"Good lecturer, assignments are tough but fair",UE24AM343BB3
+149,17,4,5,3,Labs were the best part; start the Chip level Photonics project early,UE24EC342AB4
+150,20,4,4,4,"Heavy workload in the second half, plan your weeks",UE24AM343AB1
+151,36,2,3,4,Exam is moderate; the project decides your grade,UE24CS342BA3
+152,49,4,4,3,"Take this only if you like hands-on work, theory is light",UE24CS343BB8
+153,18,5,1,4,Exam is moderate; the project decides your grade,UE24EC342AC1
+154,21,3,3,5,Exam is moderate; the project decides your grade,UE24AM343AB3
+155,32,5,3,5,Labs were the best part; start the Explainable AI project early,UE24AM342BA3
+156,46,2,3,3,"Useful for placements in the right role, ask seniors who took it",UE24AM343BB6
+157,12,5,4,3,"Heavy workload in the second half, plan your weeks",UE24AM342AA5
+158,20,3,4,4,Concepts from Advanced Data Analytics came up directly in interviews,UE24AM343AB1
+159,33,3,5,4,"Take this only if you like hands-on work, theory is light",UE24AM342BA4
+160,46,3,4,3,"Good lecturer, assignments are tough but fair",UE24AM343BB6
+161,11,3,3,4,Concepts from Machine Learning with Business Data came up directly in interviews,UE24AM342AA4
+162,22,3,4,4,Labs were the best part; start the Prompt Engineering for Generative AI project early,UE24AM343AB5
+163,30,3,2,5,Exam is moderate; the project decides your grade,UE24AM342BA1
+164,42,2,3,4,Exam is moderate; the project decides your grade,UE24AM343BB2
+165,18,4,5,5,"Take this only if you like hands-on work, theory is light",UE24EC342AC1
+166,22,3,4,4,"Heavy workload in the second half, plan your weeks",UE24AM343AB5
+167,33,4,4,4,"Useful for placements in the right role, ask seniors who took it",UE24AM342BA4
+168,41,3,2,3,"Good lecturer, assignments are tough but fair",UE24AM343BB1
+169,12,4,3,4,Exam is moderate; the project decides your grade,UE24AM342AA5
+170,21,4,2,4,"Take this only if you like hands-on work, theory is light",UE24AM343AB3
+171,30,4,4,4,Concepts from LLM and Their Applications came up directly in interviews,UE24AM342BA1
+172,43,4,3,3,Concepts from Foundations of Frugal Artificial Intelligence came up directly in interviews,UE24AM343BB3
+173,13,3,3,5,"Good lecturer, assignments are tough but fair",UE24CS342AA3
+174,25,4,5,3,Exam is moderate; the project decides your grade,UE24CS343AB7
+175,38,3,3,4,Exam is moderate; the project decides your grade,UE24CS342BA6
+176,47,2,4,4,Exam is moderate; the project decides your grade,UE24CS343BB6
+177,11,3,5,4,Labs were the best part; start the Machine Learning with Business Data project early,UE24AM342AA4
+178,21,3,5,4,Labs were the best part; start the Big Data Systems and Responsible AI Engineering project early,UE24AM343AB3
+179,35,4,5,4,"Heavy workload in the second half, plan your weeks",UE24AM342BA6
+180,45,4,4,4,Concepts from Supply Chain Analytics and Optimization with AI came up directly in interviews,UE24AM343BB5
+181,12,3,4,5,"Take this only if you like hands-on work, theory is light",UE24AM342AA5
+182,27,3,3,4,Exam is moderate; the project decides your grade,UE24EC343AB2
+183,33,4,3,4,Concepts from Deep Learning for Images came up directly in interviews,UE24AM342BA4
+184,42,4,3,5,"Heavy workload in the second half, plan your weeks",UE24AM343BB2
+185,12,4,2,3,Exam is moderate; the project decides your grade,UE24AM342AA5
+186,24,5,4,3,Concepts from Computer Network Security came up directly in interviews,UE24CS343AB6
+187,38,4,3,4,"Heavy workload in the second half, plan your weeks",UE24CS342BA6
+188,47,3,4,4,Labs were the best part; start the Information Security project early,UE24CS343BB6
+189,18,3,3,5,"Take this only if you like hands-on work, theory is light",UE24EC342AC1
+190,21,2,2,4,"Take this only if you like hands-on work, theory is light",UE24AM343AB3
+191,31,4,5,3,"Good lecturer, assignments are tough but fair",UE24AM342BA2
+192,43,3,4,4,Exam is moderate; the project decides your grade,UE24AM343BB3
+193,10,1,2,4,Exam is moderate; the project decides your grade,UE24AM342AA1
+194,21,4,4,3,Exam is moderate; the project decides your grade,UE24AM343AB3
+195,32,2,2,3,"Take this only if you like hands-on work, theory is light",UE24AM342BA3
+196,44,4,3,4,"Heavy workload in the second half, plan your weeks",UE24AM343BB4
+197,19,4,4,4,Exam is moderate; the project decides your grade,UE24EC342AC2
+198,25,4,3,4,"Take this only if you like hands-on work, theory is light",UE24CS343AB7
+199,32,4,3,4,Concepts from Explainable AI came up directly in interviews,UE24AM342BA3
+200,45,4,3,5,"Good lecturer, assignments are tough but fair",UE24AM343BB5
+201,17,4,3,5,"Take this only if you like hands-on work, theory is light",UE24EC342AB4
+202,28,4,3,4,Concepts from Quantum Entanglement and Quantum Computing came up directly in interviews,UE24EC343AB3
+203,37,4,3,5,"Take this only if you like hands-on work, theory is light",UE24CS342BA5
+204,47,3,4,4,"Useful for placements in the right role, ask seniors who took it",UE24CS343BB6
+205,19,4,3,5,Labs were the best part; start the Speech and Natural Language Processing project early,UE24EC342AC2
+206,22,5,3,5,Exam is moderate; the project decides your grade,UE24AM343AB5
+207,32,3,4,4,Labs were the best part; start the Explainable AI project early,UE24AM342BA3
+208,46,3,3,5,"Useful for placements in the right role, ask seniors who took it",UE24AM343BB6
+209,10,4,2,3,"Heavy workload in the second half, plan your weeks",UE24AM342AA1
+210,20,4,4,4,Concepts from Advanced Data Analytics came up directly in interviews,UE24AM343AB1
+211,30,1,2,5,"Useful for placements in the right role, ask seniors who took it",UE24AM342BA1
+212,43,4,1,3,Labs were the best part; start the Foundations of Frugal Artificial Intelligence project early,UE24AM343BB3
+213,14,4,4,5,Concepts from Applied Cryptography came up directly in interviews,UE24CS342AA4
+214,29,3,4,4,Exam is moderate; the project decides your grade,UE24EC343AC2
+215,40,2,3,4,Exam is moderate; the project decides your grade,UE24CS342BA8
+216,49,5,2,4,Concepts from Cybersecurity in Cloud came up directly in interviews,UE24CS343BB8
+217,18,3,3,4,Labs were the best part; start the Digital Image Processing project early,UE24EC342AC1
+218,21,4,4,5,"Take this only if you like hands-on work, theory is light",UE24AM343AB3
+219,30,3,5,4,"Useful for placements in the right role, ask seniors who took it",UE24AM342BA1
+220,43,3,4,3,"Heavy workload in the second half, plan your weeks",UE24AM343BB3
+221,13,5,4,5,"Take this only if you like hands-on work, theory is light",UE24CS342AA3
+222,26,3,4,3,Labs were the best part; start the Design of RTOS project early,UE24CS343AB9
+223,36,4,5,4,Exam is moderate; the project decides your grade,UE24CS342BA3
+224,47,4,4,4,Labs were the best part; start the Information Security project early,UE24CS343BB6
+225,14,5,3,4,"Heavy workload in the second half, plan your weeks",UE24CS342AA4
+226,27,3,3,4,Exam is moderate; the project decides your grade,UE24EC343AB2
+227,40,4,3,5,"Take this only if you like hands-on work, theory is light",UE24CS342BA8
+228,50,3,3,4,Exam is moderate; the project decides your grade,UE24CS343BB12
+229,14,5,4,4,"Heavy workload in the second half, plan your weeks",UE24CS342AA4
+230,29,3,3,5,"Take this only if you like hands-on work, theory is light",UE24EC343AC2
+231,40,3,4,4,"Good lecturer, assignments are tough but fair",UE24CS342BA8
+232,48,2,2,4,"Useful for placements in the right role, ask seniors who took it",UE24CS343BB7
+233,12,4,3,5,"Useful for placements in the right role, ask seniors who took it",UE24AM342AA5
+234,20,2,4,5,Exam is moderate; the project decides your grade,UE24AM343AB1
+235,32,3,4,5,Labs were the best part; start the Explainable AI project early,UE24AM342BA3
+236,46,3,2,4,Exam is moderate; the project decides your grade,UE24AM343BB6
+237,12,3,3,3,"Heavy workload in the second half, plan your weeks",UE24AM342AA5
+238,20,3,4,4,Concepts from Advanced Data Analytics came up directly in interviews,UE24AM343AB1
+239,34,5,4,5,"Take this only if you like hands-on work, theory is light",UE24AM342BA5
+240,44,4,3,5,"Take this only if you like hands-on work, theory is light",UE24AM343BB4

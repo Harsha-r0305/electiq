@@ -1,0 +1,152 @@
+question_id,course_id,course_code,placement_id,question_text,round,difficulty
+1,12,UE24AM342AA5,60,How would you detect and respond to data drift in a deployed model?,technical,3
+2,12,UE24AM342AA5,33,Design a CI/CD pipeline for retraining and deploying a model safely.,system design,4
+3,12,UE24AM342AA5,43,Explain canary vs blue-green deployment for ML models.,technical,3
+4,12,UE24AM342AA5,33,What is training-serving skew and how do you prevent it?,technical,3
+5,12,UE24AM342AA5,46,"How do you monitor an LLM application in production (cost, latency, quality)?",system design,4
+6,12,UE24AM342AA5,40,When would you use a feature store?,technical,2
+7,12,UE24AM342AA5,15,How would you roll back a bad model release?,HR/behavioural,2
+8,12,UE24AM342AA5,30,Design a low-latency model serving system for 10k requests per second.,system design,5
+9,12,UE24AM342AA5,60,Difference between model registry and artifact store?,technical,2
+10,12,UE24AM342AA5,47,How do you version datasets alongside code?,technical,3
+11,21,UE24AM343AB3,25,Explain a Spark shuffle and how to reduce it.,technical,3
+12,21,UE24AM343AB3,22,How does Kafka provide at-least-once vs exactly-once delivery?,technical,4
+13,21,UE24AM343AB3,31,"Bronze, silver and gold layers: what belongs where?",technical,2
+14,21,UE24AM343AB3,55,Write SQL to find the top 3 products per category using window functions.,coding,3
+15,21,UE24AM343AB3,45,How would you audit a model for demographic bias?,technical,3
+16,21,UE24AM343AB3,37,What does the DPDP Act mean for storing user data in a training set?,technical,3
+17,21,UE24AM343AB3,43,Design a pipeline for 1 TB of daily clickstream data.,system design,4
+18,21,UE24AM343AB3,11,How do you enforce data quality checks in a pipeline?,technical,3
+19,21,UE24AM343AB3,45,Partitioning vs bucketing in a data lake?,technical,3
+20,21,UE24AM343AB3,25,Explain differential privacy in simple terms.,technical,2
+21,30,UE24AM342BA1,1,Why does the KV cache speed up decoding and what does it cost in memory?,technical,3
+22,30,UE24AM342BA1,43,Compare LoRA and QLoRA. When would you pick each?,technical,3
+23,30,UE24AM342BA1,15,Explain RLHF vs DPO. What problem does DPO remove?,technical,4
+24,30,UE24AM342BA1,37,How would you build and evaluate a RAG system for internal documents?,system design,4
+25,30,UE24AM342BA1,53,What causes hallucinations and how do you reduce them?,technical,3
+26,30,UE24AM342BA1,30,Explain grouped query attention and why it is used.,technical,4
+27,30,UE24AM342BA1,1,How do you evaluate an LLM without human labels?,technical,4
+28,30,UE24AM342BA1,26,Chunking strategies for RAG and their trade-offs.,technical,3
+29,30,UE24AM342BA1,21,What is speculative decoding?,technical,4
+30,30,UE24AM342BA1,41,Implement scaled dot-product attention.,coding,3
+31,46,UE24AM343BB6,25,Explain the ReAct pattern and where it fails.,technical,3
+32,46,UE24AM343BB6,20,Supervisor vs swarm architecture for multi-agent systems: trade-offs?,system design,4
+33,46,UE24AM343BB6,52,How do you add guardrails to a tool-using agent?,technical,3
+34,46,UE24AM343BB6,20,Design an agent that books travel end to end. What can go wrong?,system design,5
+35,46,UE24AM343BB6,59,How would you evaluate an agent beyond final answer accuracy?,technical,4
+36,46,UE24AM343BB6,39,What are MCP and A2A and why do they matter?,technical,3
+37,46,UE24AM343BB6,39,How do you handle tool failures and infinite loops in an agent?,technical,3
+38,46,UE24AM343BB6,30,When should you not use an agent?,HR/behavioural,2
+39,46,UE24AM343BB6,29,How do you manage long-term memory in an agent?,technical,4
+40,46,UE24AM343BB6,52,Why use structured outputs with Pydantic for tool calls?,technical,2
+41,10,UE24AM342AA1,32,Derive the bias-variance tradeoff and explain regularization's role.,technical,3
+42,10,UE24AM342AA1,13,Why does gradient descent converge faster with feature scaling?,technical,2
+43,10,UE24AM342AA1,13,Explain MLE vs MAP.,technical,3
+44,11,UE24AM342AA4,19,How do you handle class imbalance in churn prediction?,technical,3
+45,11,UE24AM342AA4,24,Explain the precision-recall trade-off for a business KPI.,technical,2
+46,11,UE24AM342AA4,41,How would you explain a model to a non-technical stakeholder?,HR/behavioural,2
+47,13,UE24CS342AA3,10,Compare MQTT and CoAP.,technical,2
+48,13,UE24CS342AA3,10,Design a battery-powered sensor network with OTA updates.,system design,4
+49,13,UE24CS342AA3,17,How do you secure IoT device onboarding?,technical,3
+50,14,UE24CS342AA4,58,Why is ECB mode insecure?,technical,2
+51,14,UE24CS342AA4,6,Explain the TLS 1.3 handshake at a high level.,technical,3
+52,14,UE24CS342AA4,58,RSA vs ECDSA signatures: trade-offs?,technical,3
+53,15,UE24CS342AA5,36,What causes motion sickness in VR and how do you reduce it?,technical,3
+54,15,UE24CS342AA5,36,Explain SLAM's role in AR tracking.,technical,3
+55,15,UE24CS342AA5,36,How do you keep 90 fps in a Unity scene?,technical,4
+56,16,UE24CS342AA7,12,Explain network slicing.,technical,3
+57,16,UE24CS342AA7,27,OFDM vs OFDMA?,technical,3
+58,16,UE24CS342AA7,12,What are 5G NR's three service categories?,technical,2
+59,17,UE24EC342AB4,51,How does a Mach-Zehnder modulator work?,technical,3
+60,17,UE24EC342AB4,51,Why silicon photonics for data centres?,technical,3
+61,17,UE24EC342AB4,51,What limits waveguide loss?,technical,4
+62,18,UE24EC342AC1,39,Explain histogram equalization.,technical,2
+63,18,UE24EC342AC1,35,Why use Gaussian filtering before edge detection?,technical,2
+64,18,UE24EC342AC1,26,Implement 2D convolution.,coding,3
+65,19,UE24EC342AC2,9,What are MFCC features?,technical,2
+66,19,UE24EC342AC2,52,Why is CTC loss needed in ASR?,technical,4
+67,19,UE24EC342AC2,9,WER vs CER?,technical,2
+68,20,UE24AM343AB1,29,How do you choose between mean and median imputation?,technical,2
+69,20,UE24AM343AB1,5,Write SQL for a 7-day rolling average.,coding,3
+70,20,UE24AM343AB1,28,How would you A/B test a feature?,technical,3
+71,22,UE24AM343AB5,3,Chain-of-thought vs few-shot prompting?,technical,2
+72,22,UE24AM343AB5,34,How do you reduce prompt injection risk?,technical,3
+73,22,UE24AM343AB5,3,How do you test prompts for regressions?,technical,3
+74,23,UE24CS343AB5,10,Explain CAN bus arbitration.,technical,3
+75,23,UE24CS343AB5,35,Threats to V2X communication?,technical,3
+76,23,UE24CS343AB5,10,What is ISO 21434?,technical,3
+77,24,UE24CS343AB6,47,How does a stateful firewall differ from an IDS?,technical,2
+78,24,UE24CS343AB6,47,Explain ARP spoofing and defences.,technical,3
+79,24,UE24CS343AB6,47,IPsec transport vs tunnel mode?,technical,3
+80,25,UE24CS343AB7,8,ROS topics vs services vs actions?,technical,2
+81,25,UE24CS343AB7,6,What is tf2 used for?,technical,2
+82,25,UE24CS343AB7,50,Explain the node lifecycle in ROS2.,technical,3
+83,26,UE24CS343AB9,12,Priority inversion and how to fix it?,technical,3
+84,26,UE24CS343AB9,4,Implement a counting semaphore.,coding,4
+85,26,UE24CS343AB9,12,Rate monotonic scheduling basics?,technical,3
+86,27,UE24EC343AB2,46,Preemptive vs cooperative scheduling?,technical,2
+87,27,UE24EC343AB2,36,Deadlock prevention in an RTOS?,technical,3
+88,27,UE24EC343AB2,33,How do you measure interrupt latency?,technical,3
+89,28,UE24EC343AB3,17,Explain superposition and entanglement.,technical,2
+90,28,UE24EC343AB3,9,What does Grover's algorithm speed up?,technical,3
+91,28,UE24EC343AB3,17,What is qubit decoherence?,technical,3
+92,29,UE24EC343AC2,54,Forward vs inverse kinematics?,technical,3
+93,29,UE24EC343AC2,54,How do you tune a PID controller?,technical,3
+94,29,UE24EC343AC2,58,How does a drone stabilise attitude?,technical,4
+95,31,UE24AM342BA2,22,Q-learning vs SARSA?,technical,3
+96,31,UE24AM342BA2,22,Why does DQN use a target network?,technical,3
+97,31,UE24AM342BA2,48,Why does PPO clip the objective?,technical,4
+98,32,UE24AM342BA3,13,SHAP vs LIME?,technical,3
+99,32,UE24AM342BA3,39,When is a partial dependence plot misleading?,technical,4
+100,32,UE24AM342BA3,2,Give an example of global vs local explanation.,technical,2
+101,33,UE24AM342BA4,40,Why do residual connections help?,technical,3
+102,33,UE24AM342BA4,42,Explain IoU and mAP.,technical,3
+103,33,UE24AM342BA4,32,How does diffusion generate an image?,technical,4
+104,34,UE24AM342BA5,34,How do you featurize a molecule for ML?,technical,3
+105,34,UE24AM342BA5,29,Why does class imbalance matter in diagnostics?,technical,3
+106,34,UE24AM342BA5,25,How would you validate a medical imaging model?,technical,4
+107,35,UE24AM342BA6,19,Explain epsilon in differential privacy.,technical,3
+108,35,UE24AM342BA6,45,What are the challenges of federated learning?,technical,3
+109,35,UE24AM342BA6,19,What is a membership inference attack?,technical,3
+110,36,UE24CS342BA3,38,Secure boot vs measured boot?,technical,3
+111,36,UE24CS342BA3,56,What is a TEE?,technical,3
+112,36,UE24CS342BA3,56,Explain DMA attacks and the IOMMU.,technical,4
+113,37,UE24CS342BA5,51,PoW vs PoS?,technical,2
+114,37,UE24CS342BA5,51,What is reentrancy in Solidity?,technical,4
+115,37,UE24CS342BA5,51,How does a Merkle tree support verification?,technical,3
+116,38,UE24CS342BA6,44,What is chain of custody?,technical,2
+117,38,UE24CS342BA6,16,How do you acquire volatile memory?,technical,3
+118,38,UE24CS342BA6,36,Explain timeline analysis of NTFS artifacts.,technical,4
+119,39,UE24CS342BA7,27,Data-driven vs physics-based digital twin?,technical,3
+120,39,UE24CS342BA7,27,How do you validate a digital twin?,technical,3
+121,39,UE24CS342BA7,6,Security risks specific to digital twins?,technical,3
+122,40,UE24CS342BA8,17,Name two fairness metrics and a conflict between them.,technical,4
+123,40,UE24CS342BA8,35,What is prompt injection?,technical,2
+124,40,UE24CS342BA8,17,What does EU AI Act risk tiering mean for a hiring model?,technical,3
+125,41,UE24AM343BB1,7,Explain message passing in a GCN.,technical,3
+126,41,UE24AM343BB1,22,GraphSAGE vs GAT?,technical,3
+127,41,UE24AM343BB1,7,Why does the WL test limit GNN expressiveness?,technical,4
+128,42,UE24AM343BB2,18,How is PageRank computed?,technical,3
+129,42,UE24AM343BB2,28,How do you detect communities in a social graph?,technical,3
+130,42,UE24AM343BB2,23,How would you detect fake news using graph and text?,system design,4
+131,43,UE24AM343BB3,37,Post-training quantization vs QAT?,technical,3
+132,43,UE24AM343BB3,55,Why use depthwise separable convolutions?,technical,3
+133,43,UE24AM343BB3,2,How do you fit a model in 256 KB of RAM?,system design,4
+134,44,UE24AM343BB4,24,Why is stationarity important for time series?,technical,3
+135,44,UE24AM343BB4,24,What are the pitfalls of backtesting trading strategies?,technical,4
+136,44,UE24AM343BB4,49,How would you detect illicit transactions with graph ML?,technical,4
+137,45,UE24AM343BB5,45,Formulate a transportation problem as an LP.,technical,3
+138,45,UE24AM343BB5,34,How do you forecast intermittent demand?,technical,3
+139,45,UE24AM343BB5,45,Explain the intuition behind safety stock.,technical,2
+140,47,UE24CS343BB6,6,Explain a stack buffer overflow.,technical,3
+141,47,UE24CS343BB6,56,What are ASLR and stack canaries?,technical,3
+142,47,UE24CS343BB6,56,Walk through STRIDE on a login service.,technical,3
+143,48,UE24CS343BB7,17,EKF-SLAM vs particle filter SLAM?,technical,4
+144,48,UE24CS343BB7,17,A* vs potential fields?,technical,3
+145,48,UE24CS343BB7,58,How does the dynamic window approach avoid obstacles?,technical,4
+146,49,UE24CS343BB8,10,Explain the shared responsibility model.,technical,2
+147,49,UE24CS343BB8,10,Common IAM misconfigurations in AWS?,technical,3
+148,49,UE24CS343BB8,38,Security groups vs network ACLs?,technical,3
+149,50,UE24CS343BB12,35,How would you triage a high-volume login failure alert?,technical,3
+150,50,UE24CS343BB12,4,Map credential dumping to MITRE ATT&CK.,technical,3
+151,50,UE24CS343BB12,14,How do you separate true and false positives in a SIEM?,technical,2

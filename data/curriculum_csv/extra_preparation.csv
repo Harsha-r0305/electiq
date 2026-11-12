@@ -1,0 +1,125 @@
+activity_id,student_id,course_id,platform,description,hours_spent
+1,1,43,Coursera Security,Cybersecurity certificate,200
+2,1,43,Open source,Contributions to libraries,90
+3,1,30,TryHackMe / HackTheBox,Security labs,45
+4,2,43,NPTEL,Certification course,45
+5,2,20,Hugging Face course,LLM and NLP course,30
+6,2,20,Coursera / DeepLearning.AI,Specialization,30
+7,3,18,Kaggle,Competition notebooks,30
+8,3,33,Coursera Security,Cybersecurity certificate,30
+9,4,50,Hugging Face course,LLM and NLP course,60
+10,4,26,Coursera / DeepLearning.AI,Specialization,30
+11,4,17,Kaggle,Competition notebooks,30
+12,5,20,LeetCode,DSA practice,30
+13,5,18,NPTEL,Certification course,200
+14,5,42,Coursera / DeepLearning.AI,Specialization,90
+15,6,14,Coursera Security,Cybersecurity certificate,20
+16,6,14,AWS Certification,Cloud certification,20
+17,7,10,LeetCode,DSA practice,120
+18,8,49,LeetCode,DSA practice,20
+19,8,39,NPTEL,Certification course,120
+20,9,46,AWS Certification,Cloud certification,60
+21,10,49,Kaggle,Competition notebooks,45
+22,10,40,Hugging Face course,LLM and NLP course,20
+23,11,14,Hugging Face course,LLM and NLP course,30
+24,11,14,Kaggle,Competition notebooks,30
+25,11,43,Coursera Security,Cybersecurity certificate,90
+26,12,16,TryHackMe / HackTheBox,Security labs,90
+27,13,20,AWS Certification,Cloud certification,60
+28,13,32,AWS Certification,Cloud certification,200
+29,14,25,Hugging Face course,LLM and NLP course,200
+30,15,21,Open source,Contributions to libraries,60
+31,15,12,Coursera / DeepLearning.AI,Specialization,45
+32,15,21,Coursera / DeepLearning.AI,Specialization,20
+33,16,14,LeetCode,DSA practice,120
+34,16,27,Open source,Contributions to libraries,20
+35,16,38,Open source,Contributions to libraries,30
+36,17,28,Open source,Contributions to libraries,30
+37,18,12,Kaggle,Competition notebooks,20
+38,18,42,TryHackMe / HackTheBox,Security labs,30
+39,19,20,TryHackMe / HackTheBox,Security labs,90
+40,19,20,NPTEL,Certification course,45
+41,19,11,Open source,Contributions to libraries,30
+42,20,32,Open source,Contributions to libraries,20
+43,20,32,Coursera Security,Cybersecurity certificate,90
+44,20,46,AWS Certification,Cloud certification,90
+45,21,14,Coursera Security,Cybersecurity certificate,60
+46,21,41,Hugging Face course,LLM and NLP course,20
+47,21,21,TryHackMe / HackTheBox,Security labs,30
+48,22,21,Coursera / DeepLearning.AI,Specialization,45
+49,23,19,AWS Certification,Cloud certification,90
+50,23,20,NPTEL,Certification course,60
+51,23,20,LeetCode,DSA practice,45
+52,24,44,Kaggle,Competition notebooks,60
+53,24,21,NPTEL,Certification course,30
+54,25,21,AWS Certification,Cloud certification,120
+55,25,46,Coursera / DeepLearning.AI,Specialization,60
+56,25,34,Open source,Contributions to libraries,120
+57,26,30,Open source,Contributions to libraries,20
+58,26,30,AWS Certification,Cloud certification,120
+59,26,21,Hugging Face course,LLM and NLP course,200
+60,27,39,NPTEL,Certification course,90
+61,28,11,LeetCode,DSA practice,90
+62,28,32,LeetCode,DSA practice,200
+63,28,42,Coursera / DeepLearning.AI,Specialization,60
+64,29,12,Kaggle,Competition notebooks,30
+65,29,46,LeetCode,DSA practice,120
+66,29,12,Kaggle,Competition notebooks,120
+67,30,12,Kaggle,Competition notebooks,45
+68,30,46,Coursera Security,Cybersecurity certificate,60
+69,30,12,NPTEL,Certification course,120
+70,31,21,NPTEL,Certification course,200
+71,32,33,Kaggle,Competition notebooks,90
+72,33,12,Kaggle,Competition notebooks,45
+73,34,45,NPTEL,Certification course,60
+74,35,50,Coursera / DeepLearning.AI,Specialization,200
+75,36,27,Kaggle,Competition notebooks,20
+76,37,30,LeetCode,DSA practice,90
+77,37,30,Kaggle,Competition notebooks,30
+78,37,12,Hugging Face course,LLM and NLP course,45
+79,38,20,Hugging Face course,LLM and NLP course,90
+80,39,46,Kaggle,Competition notebooks,200
+81,39,18,Coursera / DeepLearning.AI,Specialization,60
+82,39,18,Coursera Security,Cybersecurity certificate,60
+83,40,33,TryHackMe / HackTheBox,Security labs,20
+84,40,46,Open source,Contributions to libraries,20
+85,41,11,Coursera Security,Cybersecurity certificate,45
+86,41,11,Hugging Face course,LLM and NLP course,90
+87,41,11,LeetCode,DSA practice,30
+88,42,41,AWS Certification,Cloud certification,120
+89,43,21,Coursera Security,Cybersecurity certificate,30
+90,43,21,TryHackMe / HackTheBox,Security labs,120
+91,44,25,TryHackMe / HackTheBox,Security labs,200
+92,44,38,Hugging Face course,LLM and NLP course,120
+93,44,25,Coursera / DeepLearning.AI,Specialization,45
+94,45,45,Coursera Security,Cybersecurity certificate,90
+95,45,21,LeetCode,DSA practice,60
+96,45,21,Coursera Security,Cybersecurity certificate,60
+97,46,42,TryHackMe / HackTheBox,Security labs,90
+98,46,33,Open source,Contributions to libraries,30
+99,47,12,Hugging Face course,LLM and NLP course,30
+100,48,43,NPTEL,Certification course,45
+101,48,21,TryHackMe / HackTheBox,Security labs,45
+102,49,10,TryHackMe / HackTheBox,Security labs,30
+103,49,10,Open source,Contributions to libraries,60
+104,49,10,AWS Certification,Cloud certification,45
+105,50,32,NPTEL,Certification course,60
+106,51,47,AWS Certification,Cloud certification,120
+107,52,19,Hugging Face course,LLM and NLP course,200
+108,52,32,TryHackMe / HackTheBox,Security labs,30
+109,52,32,NPTEL,Certification course,90
+110,53,20,Open source,Contributions to libraries,20
+111,53,20,LeetCode,DSA practice,30
+112,54,29,TryHackMe / HackTheBox,Security labs,45
+113,54,14,LeetCode,DSA practice,120
+114,55,30,Kaggle,Competition notebooks,120
+115,55,18,LeetCode,DSA practice,30
+116,56,13,Coursera Security,Cybersecurity certificate,60
+117,57,40,Coursera Security,Cybersecurity certificate,90
+118,57,50,Coursera Security,Cybersecurity certificate,30
+119,58,14,Kaggle,Competition notebooks,120
+120,58,40,Kaggle,Competition notebooks,60
+121,58,29,Coursera Security,Cybersecurity certificate,90
+122,59,46,Coursera / DeepLearning.AI,Specialization,60
+123,60,44,Coursera Security,Cybersecurity certificate,120
+124,60,34,LeetCode,DSA practice,45

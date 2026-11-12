@@ -1,0 +1,17 @@
+name,sector,tier,ctc_lpa
+Google,Software,1,40
+NVIDIA,Semiconductors and AI,1,34
+Microsoft,Software,1,36
+Amazon,E-commerce,2,30
+Goldman Sachs,Finance,2,30
+Flipkart,E-commerce,2,26
+Razorpay,Fintech,3,22
+Swiggy,Consumer Internet,3,20
+Oracle,Software,3,19
+Cisco,Networking,3,18
+Zoho,Software,4,12
+Bosch,Engineering,4,11
+Accenture,IT Services,5,9
+Infosys,IT Services,5,8
+TCS,IT Services,5,7.5
+Wipro,IT Services,5,7

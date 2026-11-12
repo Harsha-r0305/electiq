@@ -1,0 +1,157 @@
+role_id,role,skill_id,skill,importance
+1,ML Engineer,1,Python,5
+1,ML Engineer,2,PyTorch,4
+1,ML Engineer,4,ML theory,4
+1,ML Engineer,22,Model serving,4
+1,ML Engineer,30,SQL/data modeling,3
+1,ML Engineer,21,ML pipelines/CI-CD,3
+1,ML Engineer,5,Linear algebra and optimization,3
+2,GenAI / LLM Engineer,1,Python,5
+2,GenAI / LLM Engineer,7,Transformers,5
+2,GenAI / LLM Engineer,8,LLM fine-tuning,5
+2,GenAI / LLM Engineer,9,RAG,5
+2,GenAI / LLM Engineer,11,LLM evaluation,4
+2,GenAI / LLM Engineer,2,PyTorch,4
+2,GenAI / LLM Engineer,10,RLHF/DPO,3
+2,GenAI / LLM Engineer,13,Prompt engineering,3
+2,GenAI / LLM Engineer,22,Model serving,3
+3,AI Agent Engineer,1,Python,5
+3,AI Agent Engineer,14,Agent patterns,5
+3,AI Agent Engineer,15,Tool use,5
+3,AI Agent Engineer,17,Agent frameworks,4
+3,AI Agent Engineer,16,Multi-agent systems,4
+3,AI Agent Engineer,19,Guardrails and agent evals,4
+3,AI Agent Engineer,9,RAG,4
+3,AI Agent Engineer,20,Structured outputs,3
+3,AI Agent Engineer,18,Agent protocols,3
+3,AI Agent Engineer,24,LLMOps observability,3
+4,MLOps / ML Platform Engineer,21,ML pipelines/CI-CD,5
+4,MLOps / ML Platform Engineer,22,Model serving,5
+4,MLOps / ML Platform Engineer,23,Drift monitoring,5
+4,MLOps / ML Platform Engineer,25,Docker/Kubernetes,5
+4,MLOps / ML Platform Engineer,24,LLMOps observability,4
+4,MLOps / ML Platform Engineer,26,Feature stores,4
+4,MLOps / ML Platform Engineer,1,Python,4
+5,Data Engineer,30,SQL/data modeling,5
+5,Data Engineer,27,Spark,5
+5,Data Engineer,29,Lakehouse,5
+5,Data Engineer,28,Kafka/streaming,4
+5,Data Engineer,31,Data governance,4
+5,Data Engineer,1,Python,4
+6,Data Scientist / Analyst,32,Data analytics/visualization,5
+6,Data Scientist / Analyst,33,Business ML,5
+6,Data Scientist / Analyst,30,SQL/data modeling,4
+6,Data Scientist / Analyst,34,Time series,4
+6,Data Scientist / Analyst,4,ML theory,3
+6,Data Scientist / Analyst,1,Python,4
+7,Applied AI Scientist,4,ML theory,5
+7,Applied AI Scientist,5,Linear algebra and optimization,5
+7,Applied AI Scientist,6,Research methods,5
+7,Applied AI Scientist,2,PyTorch,4
+7,Applied AI Scientist,7,Transformers,3
+7,Applied AI Scientist,10,RLHF/DPO,3
+7,Applied AI Scientist,1,Python,4
+8,Responsible AI / AI Governance,35,Fairness/bias,5
+8,Responsible AI / AI Governance,36,Privacy/compliance,5
+8,Responsible AI / AI Governance,42,AI governance,5
+8,Responsible AI / AI Governance,37,Explainability,4
+8,Responsible AI / AI Governance,40,Adversarial ML,3
+8,Responsible AI / AI Governance,41,LLM security,3
+8,Responsible AI / AI Governance,38,Differential privacy,3
+9,Computer Vision Engineer,43,Image processing,5
+9,Computer Vision Engineer,44,CNNs,5
+9,Computer Vision Engineer,45,Object detection,5
+9,Computer Vision Engineer,2,PyTorch,4
+9,Computer Vision Engineer,46,Generative image models,3
+9,Computer Vision Engineer,3,TensorFlow/Keras,3
+9,Computer Vision Engineer,1,Python,4
+10,RL / Decision-AI Engineer,47,Deep RL,5
+10,RL / Decision-AI Engineer,48,Policy gradient,5
+10,RL / Decision-AI Engineer,49,Multi-agent RL,4
+10,RL / Decision-AI Engineer,2,PyTorch,4
+10,RL / Decision-AI Engineer,62,Operations research,3
+10,RL / Decision-AI Engineer,1,Python,4
+11,Quant / FinTech ML Engineer,61,Quant finance ML,5
+11,Quant / FinTech ML Engineer,34,Time series,5
+11,Quant / FinTech ML Engineer,47,Deep RL,3
+11,Quant / FinTech ML Engineer,1,Python,4
+11,Quant / FinTech ML Engineer,4,ML theory,3
+11,Quant / FinTech ML Engineer,50,Graph neural nets,2
+12,Supply Chain AI Engineer,62,Operations research,5
+12,Supply Chain AI Engineer,63,Demand forecasting,5
+12,Supply Chain AI Engineer,34,Time series,4
+12,Supply Chain AI Engineer,47,Deep RL,3
+12,Supply Chain AI Engineer,1,Python,4
+13,Graph ML / NLP Engineer,50,Graph neural nets,5
+13,Graph ML / NLP Engineer,51,Knowledge graphs,4
+13,Graph ML / NLP Engineer,53,Text mining/NLP,4
+13,Graph ML / NLP Engineer,52,Social network analysis,3
+13,Graph ML / NLP Engineer,7,Transformers,3
+13,Graph ML / NLP Engineer,2,PyTorch,4
+14,Edge AI / TinyML Engineer,58,Model compression,5
+14,Edge AI / TinyML Engineer,59,TinyML deployment,5
+14,Edge AI / TinyML Engineer,60,Efficient architectures,4
+14,Edge AI / TinyML Engineer,82,Embedded C,3
+14,Edge AI / TinyML Engineer,1,Python,3
+15,Healthcare / Bioinformatics AI Scientist,54,Medical imaging DL,5
+15,Healthcare / Bioinformatics AI Scientist,56,Genomics/proteins,5
+15,Healthcare / Bioinformatics AI Scientist,55,Cheminformatics,4
+15,Healthcare / Bioinformatics AI Scientist,57,Drug discovery generative,3
+15,Healthcare / Bioinformatics AI Scientist,2,PyTorch,4
+16,Application Security Engineer,64,Secure coding,5
+16,Application Security Engineer,66,Web security,5
+16,Application Security Engineer,65,Threat modelling,5
+16,Application Security Engineer,67,Penetration testing,4
+16,Application Security Engineer,68,Malware analysis,2
+16,Application Security Engineer,74,Applied cryptography,3
+17,SOC / Threat Analyst,70,SOC/SIEM,5
+17,SOC / Threat Analyst,71,Incident response,5
+17,SOC / Threat Analyst,68,Malware analysis,3
+17,SOC / Threat Analyst,73,Network security,4
+17,SOC / Threat Analyst,69,Digital forensics,3
+18,Cloud Security Engineer,72,Cloud security,5
+18,Cloud Security Engineer,73,Network security,4
+18,Cloud Security Engineer,25,Docker/Kubernetes,3
+18,Cloud Security Engineer,65,Threat modelling,3
+18,Cloud Security Engineer,71,Incident response,3
+19,Digital Forensics Analyst,69,Digital forensics,5
+19,Digital Forensics Analyst,71,Incident response,4
+19,Digital Forensics Analyst,68,Malware analysis,3
+19,Digital Forensics Analyst,79,Linux internals,3
+19,Digital Forensics Analyst,73,Network security,2
+20,Blockchain Developer,75,Smart contracts,5
+20,Blockchain Developer,76,Consensus protocols,4
+20,Blockchain Developer,74,Applied cryptography,4
+20,Blockchain Developer,66,Web security,3
+21,Embedded / IoT / RTOS Engineer,82,Embedded C,5
+21,Embedded / IoT / RTOS Engineer,81,RTOS,5
+21,Embedded / IoT / RTOS Engineer,80,IoT protocols,4
+21,Embedded / IoT / RTOS Engineer,78,Firmware/SoC,4
+21,Embedded / IoT / RTOS Engineer,86,Wireless/5G,2
+22,Robotics / Autonomous Systems Engineer,83,ROS/ROS2,5
+22,Robotics / Autonomous Systems Engineer,84,SLAM/navigation,5
+22,Robotics / Autonomous Systems Engineer,85,Robot perception,5
+22,Robotics / Autonomous Systems Engineer,1,Python,4
+22,Robotics / Autonomous Systems Engineer,87,Vehicle networks,2
+22,Robotics / Autonomous Systems Engineer,82,Embedded C,3
+23,Platform / Firmware Security Engineer,77,Platform security (TEE),5
+23,Platform / Firmware Security Engineer,78,Firmware/SoC,5
+23,Platform / Firmware Security Engineer,79,Linux internals,4
+23,Platform / Firmware Security Engineer,74,Applied cryptography,4
+23,Platform / Firmware Security Engineer,82,Embedded C,4
+24,Wireless / 5G Engineer,86,Wireless/5G,5
+24,Wireless / 5G Engineer,94,Signal processing,4
+24,Wireless / 5G Engineer,73,Network security,3
+24,Wireless / 5G Engineer,80,IoT protocols,3
+25,AR/VR / Digital Twin Engineer,90,AR/VR development,5
+25,AR/VR / Digital Twin Engineer,89,3D view synthesis,4
+25,AR/VR / Digital Twin Engineer,88,Digital twins/simulation,5
+25,AR/VR / Digital Twin Engineer,43,Image processing,2
+26,Speech / NLP Engineer,93,Speech processing,5
+26,Speech / NLP Engineer,53,Text mining/NLP,4
+26,Speech / NLP Engineer,94,Signal processing,3
+26,Speech / NLP Engineer,7,Transformers,3
+26,Speech / NLP Engineer,2,PyTorch,3
+27,Quantum / Photonics Engineer,92,Quantum computing,5
+27,Quantum / Photonics Engineer,91,Photonics design,5
+27,Quantum / Photonics Engineer,5,Linear algebra and optimization,3

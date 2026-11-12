@@ -1,0 +1,32 @@
+{
+  "name": "electiq",
+  "version": "1.0.0",
+  "private": true,
+  "description": "ElectIQ - Course & Elective Intelligence System (DBMS Level 3 project)",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "db:setup": "node --env-file=.env scripts/setup-db.mjs",
+    "db:seed": "node --env-file=.env scripts/ingest-curriculum.mjs",
+    "db:ingest": "node --env-file=.env scripts/ingest-curriculum.mjs",
+    "sync-graph": "node --env-file=.env scripts/sync-graph.mjs",
+    "db:reset": "npm run db:setup && npm run db:seed && (npm run sync-graph -- --seed-graph-owned || echo \"Neo4j is not reachable. Start it, then run: npm run sync-graph -- --seed-graph-owned\")",
+    "db:vector": "python scripts/generate_supplementary_data.py && python scripts/generate_embeddings.py",
+    "embed:serve": "cd embedding_service && python -m uvicorn app:app --host 127.0.0.1 --port 8001",
+    "test:smoke": "node scripts/smoke-all.mjs",
+    "test:workflow": "node --env-file=.env scripts/test-approval-flow.mjs && node --env-file=.env scripts/test-item-flow.mjs",
+    "test:security": "node --env-file=.env scripts/test-security-rules.mjs",
+    "test:e2e": "node --env-file=.env scripts/test-workflow-e2e.mjs",
+    "test:semantic": "node --env-file=.env scripts/test-semantic-search.mjs"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "jose": "^5.9.6",
+    "neo4j-driver": "^5.27.0",
+    "next": "14.2.35",
+    "pg": "^8.13.1",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}

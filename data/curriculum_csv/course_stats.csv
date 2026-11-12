@@ -1,0 +1,42 @@
+course_id,code,title,slot,advisor_scope_outlook_1to5,seniors_taken,avg_grade_points,avg_difficulty,avg_workload,avg_usefulness,avg_best_package_lpa_of_takers,pct_takers_in_35plus_tiers,top_roles_placed
+10,UE24AM342AA1,Advanced Foundations for ML,Elective I,4.0,6,8.5,3.2,2.5,3.8,22.3,17,Applied AI Scientist; Data Scientist / Analyst
+11,UE24AM342AA4,Machine Learning with Business Data,Elective I,4.0,8,8.5,3.2,3.4,4.0,16.8,0,Supply Chain AI Engineer; Data Engineer
+12,UE24AM342AA5,ML System Design and AgentOps,Elective I,5.0,15,8.3,3.6,3.7,3.9,19.9,13,MLOps / ML Platform Engineer; AI Agent Engineer
+13,UE24CS342AA3,Internet of Things,Elective I,3.0,4,9.0,2.8,3.5,4.5,21.3,25,Responsible AI / AI Governance; Robotics / Autonomous Systems Engineer
+14,UE24CS342AA4,Applied Cryptography,Elective I,3.0,7,7.9,3.9,3.7,4.4,19.4,14,AR/VR / Digital Twin Engineer; RL / Decision-AI Engineer
+15,UE24CS342AA5,Augmented and Virtual Reality,Elective I,2.0,1,8.0,3.0,3.0,5.0,15.2,0,Digital Forensics Analyst
+16,UE24CS342AA7,Modern Wireless and 5G Systems,Elective I,3.0,2,8.5,3.0,3.5,4.5,17.6,0,Embedded / IoT / RTOS Engineer; AR/VR / Digital Twin Engineer
+17,UE24EC342AB4,Chip level Photonics,Elective I,2.0,3,8.7,4.0,4.0,4.3,20.6,33,Responsible AI / AI Governance; Data Scientist / Analyst
+18,UE24EC342AC1,Digital Image Processing,Elective I,3.0,8,8.0,3.2,3.4,4.1,22.1,25,Graph ML / NLP Engineer; Data Engineer
+19,UE24EC342AC2,Speech and Natural Language Processing,Elective I,4.0,6,8.2,3.7,3.5,4.0,28.2,33,Speech / NLP Engineer; Quantum / Photonics Engineer
+20,UE24AM343AB1,Advanced Data Analytics,Elective II,3.0,15,8.5,3.7,3.8,4.0,23.1,20,AI Agent Engineer; Data Scientist / Analyst
+21,UE24AM343AB3,Big Data Systems and Responsible AI Engineering,Elective II,4.0,15,8.1,3.3,3.4,4.1,16.4,0,Data Engineer; MLOps / ML Platform Engineer
+22,UE24AM343AB5,Prompt Engineering for Generative AI,Elective II,3.0,5,8.2,3.2,3.4,4.4,21.7,20,GenAI / LLM Engineer; AI Agent Engineer
+23,UE24CS343AB5,Intelligent Vehicle: Connectivity and Cyber Security,Elective II,3.0,2,7.0,3.5,4.0,4.5,27.3,50,Responsible AI / AI Governance; SOC / Threat Analyst
+24,UE24CS343AB6,Computer Network Security,Elective II,4.0,1,9.0,5.0,4.0,3.0,9.2,0,Digital Forensics Analyst
+25,UE24CS343AB7,ROS for Autonomous Systems,Elective II,3.0,6,8.3,3.3,3.2,4.2,25.2,33,AR/VR / Digital Twin Engineer; MLOps / ML Platform Engineer
+26,UE24CS343AB9,Design of RTOS,Elective II,3.0,4,8.5,2.5,3.5,3.5,24.5,25,Responsible AI / AI Governance; Embedded / IoT / RTOS Engineer
+27,UE24EC343AB2,Real Time Operating Systems,Elective II,3.0,5,8.2,3.0,2.8,4.0,13.0,0,Cloud Security Engineer; RL / Decision-AI Engineer
+28,UE24EC343AB3,Quantum Entanglement and Quantum Computing,Elective II,2.0,4,8.2,3.8,3.2,4.0,34.7,50,Quantum / Photonics Engineer; Speech / NLP Engineer
+29,UE24EC343AC2,Robotic Systems: From Arms to Drones,Elective II,3.0,3,8.0,3.0,4.0,4.3,8.9,0,AI Agent Engineer; Responsible AI / AI Governance
+30,UE24AM342BA1,"LLM and Their Applications: Design, Optimization, and Evaluation",Elective III,5.0,11,8.1,3.1,3.3,4.3,21.3,9,MLOps / ML Platform Engineer; Data Engineer
+31,UE24AM342BA2,Deep Reinforcement Learning,Elective III,3.0,6,7.7,3.5,3.8,4.0,18.0,0,RL / Decision-AI Engineer; Data Engineer
+32,UE24AM342BA3,Explainable AI,Elective III,3.0,11,8.5,3.5,3.0,4.3,23.5,27,Data Scientist / Analyst; Applied AI Scientist
+33,UE24AM342BA4,Deep Learning for Images,Elective III,4.0,5,8.4,3.4,3.2,4.0,21.6,20,AI Agent Engineer; Graph ML / NLP Engineer
+34,UE24AM342BA5,Deep Learning for Life Sciences,Elective III,3.0,4,8.2,4.0,3.2,5.0,13.5,0,Data Engineer; AI Agent Engineer
+35,UE24AM342BA6,Privacy Preserving Machine Learning,Elective III,3.0,4,8.5,3.2,3.8,4.5,25.3,25,Supply Chain AI Engineer; Quantum / Photonics Engineer
+36,UE24CS342BA3,Design of Secure Platform and Systems,Elective III,4.0,2,8.5,3.0,4.0,4.0,12.9,0,Data Scientist / Analyst; Platform / Firmware Security Engineer
+37,UE24CS342BA5,Block Chain,Elective III,2.0,1,10.0,4.0,3.0,5.0,8.6,0,Quantum / Photonics Engineer
+38,UE24CS342BA6,Digital Forensics and Incident Response,Elective III,3.0,4,8.0,3.5,3.5,4.2,15.2,0,Digital Forensics Analyst; Cloud Security Engineer
+39,UE24CS342BA7,Digital Twins,Elective III,3.0,5,8.4,3.8,3.4,3.8,30.5,40,AR/VR / Digital Twin Engineer; MLOps / ML Platform Engineer
+40,UE24CS342BA8,Responsible AI,Elective III,4.0,7,8.4,3.3,3.3,4.6,19.0,29,Responsible AI / AI Governance; Robotics / Autonomous Systems Engineer
+41,UE24AM343BB1,Interdisciplinary Deep Learning for Graphs,Elective IV,3.0,6,8.8,3.2,3.3,4.0,25.2,17,Data Engineer; Data Scientist / Analyst
+42,UE24AM343BB2,Social Computing,Elective IV,2.0,6,8.0,3.8,3.2,4.7,20.8,17,MLOps / ML Platform Engineer; Data Scientist / Analyst
+43,UE24AM343BB3,Foundations of Frugal Artificial Intelligence,Elective IV,3.0,9,8.8,3.4,3.0,3.7,23.8,22,RL / Decision-AI Engineer; Edge AI / TinyML Engineer
+44,UE24AM343BB4,Machine Learning for Finance,Elective IV,4.0,3,8.0,4.0,3.3,4.0,12.8,0,Data Scientist / Analyst; Applied AI Scientist
+45,UE24AM343BB5,Supply Chain Analytics and Optimization with AI,Elective IV,3.0,4,8.5,4.2,3.5,4.2,14.2,0,Supply Chain AI Engineer; Healthcare / Bioinformatics AI Scientist
+46,UE24AM343BB6,Agentic AI and Multi-Agent AI System,Elective IV,5.0,13,8.3,3.3,3.3,3.8,21.4,15,AI Agent Engineer; Data Engineer
+47,UE24CS343BB6,Information Security,Elective IV,4.0,5,8.2,3.0,4.0,4.0,15.9,20,AR/VR / Digital Twin Engineer; Application Security Engineer
+48,UE24CS343BB7,Mobile Autonomous Robotics,Elective IV,3.0,2,8.5,3.0,3.0,4.5,13.6,0,Robotics / Autonomous Systems Engineer
+49,UE24CS343BB8,Cybersecurity in Cloud,Elective IV,4.0,7,8.1,4.3,3.6,4.1,24.5,29,Responsible AI / AI Governance; MLOps / ML Platform Engineer
+50,UE24CS343BB12,SOC and Threat Intelligence,Elective IV,4.0,5,7.8,2.8,3.2,4.2,20.5,20,SOC / Threat Analyst; Responsible AI / AI Governance

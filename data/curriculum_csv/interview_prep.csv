@@ -1,0 +1,61 @@
+prep_id,placement_id,strategy,duration_weeks,resources_used,tips
+1,1,"DSA daily for 10 weeks, one mock interview per week, project walkthrough rehearsed aloud",12,Pramp mocks; DDIA book chapters; GitHub projects,Be ready to justify why you chose that elective
+2,2,"Core subject revision plus 150 LeetCode problems, then system design from case studies",8,Pramp mocks; DDIA book chapters; GitHub projects,Know your project's failure cases
+3,3,"Focused on two strong projects, practiced explaining trade-offs, did peer mocks",12,Pramp mocks; DDIA book chapters; GitHub projects,"Explain metrics, not just models"
+4,4,"Core subject revision plus 150 LeetCode problems, then system design from case studies",12,Striver DSA sheet; NPTEL lectures; InterviewBit mocks,Know your project's failure cases
+5,5,"Core subject revision plus 150 LeetCode problems, then system design from case studies",8,GfG company archives; Kaggle notebooks; university slides,Be ready to justify why you chose that elective
+6,6,"Revised core CS, SQL and one cloud platform; solved company-specific past papers",8,GfG company archives; Kaggle notebooks; university slides,"Explain metrics, not just models"
+7,7,"DSA daily for 10 weeks, one mock interview per week, project walkthrough rehearsed aloud",10,GfG company archives; Kaggle notebooks; university slides,Be ready to justify why you chose that elective
+8,8,"Revised core CS, SQL and one cloud platform; solved company-specific past papers",8,GfG company archives; Kaggle notebooks; university slides,"Explain metrics, not just models"
+9,9,"Core subject revision plus 150 LeetCode problems, then system design from case studies",4,Striver DSA sheet; NPTEL lectures; InterviewBit mocks,Practice speaking system design out loud
+10,10,"Core subject revision plus 150 LeetCode problems, then system design from case studies",4,Pramp mocks; DDIA book chapters; GitHub projects,Practice speaking system design out loud
+11,11,"Revised core CS, SQL and one cloud platform; solved company-specific past papers",6,Striver DSA sheet; NPTEL lectures; InterviewBit mocks,"Explain metrics, not just models"
+12,12,"DSA daily for 10 weeks, one mock interview per week, project walkthrough rehearsed aloud",8,Striver DSA sheet; NPTEL lectures; InterviewBit mocks,Practice speaking system design out loud
+13,13,"Core subject revision plus 150 LeetCode problems, then system design from case studies",10,GfG company archives; Kaggle notebooks; university slides,Know your project's failure cases
+14,14,"DSA daily for 10 weeks, one mock interview per week, project walkthrough rehearsed aloud",8,Striver DSA sheet; NPTEL lectures; InterviewBit mocks,Know your project's failure cases
+15,15,"Core subject revision plus 150 LeetCode problems, then system design from case studies",10,GfG company archives; Kaggle notebooks; university slides,Be ready to justify why you chose that elective
+16,16,"Core subject revision plus 150 LeetCode problems, then system design from case studies",4,Pramp mocks; DDIA book chapters; GitHub projects,Revise SQL joins and window functions the night before
+17,17,"DSA daily for 10 weeks, one mock interview per week, project walkthrough rehearsed aloud",10,GfG company archives; Kaggle notebooks; university slides,"Explain metrics, not just models"
+18,18,"DSA daily for 10 weeks, one mock interview per week, project walkthrough rehearsed aloud",6,Pramp mocks; DDIA book chapters; GitHub projects,Revise SQL joins and window functions the night before
+19,19,"Focused on two strong projects, practiced explaining trade-offs, did peer mocks",10,Striver DSA sheet; NPTEL lectures; InterviewBit mocks,Practice speaking system design out loud
+20,20,"Core subject revision plus 150 LeetCode problems, then system design from case studies",6,LeetCode; system design primers; official docs,"Explain metrics, not just models"
+21,21,"DSA daily for 10 weeks, one mock interview per week, project walkthrough rehearsed aloud",8,Pramp mocks; DDIA book chapters; GitHub projects,Know your project's failure cases
+22,22,"Core subject revision plus 150 LeetCode problems, then system design from case studies",4,LeetCode; system design primers; official docs,Know your project's failure cases
+23,23,"DSA daily for 10 weeks, one mock interview per week, project walkthrough rehearsed aloud",10,Striver DSA sheet; NPTEL lectures; InterviewBit mocks,Revise SQL joins and window functions the night before
+24,24,"Focused on two strong projects, practiced explaining trade-offs, did peer mocks",8,Striver DSA sheet; NPTEL lectures; InterviewBit mocks,"Explain metrics, not just models"
+25,25,"Core subject revision plus 150 LeetCode problems, then system design from case studies",8,GfG company archives; Kaggle notebooks; university slides,Revise SQL joins and window functions the night before
+26,26,"Core subject revision plus 150 LeetCode problems, then system design from case studies",10,Striver DSA sheet; NPTEL lectures; InterviewBit mocks,"Explain metrics, not just models"
+27,27,"Revised core CS, SQL and one cloud platform; solved company-specific past papers",8,Striver DSA sheet; NPTEL lectures; InterviewBit mocks,"Explain metrics, not just models"
+28,28,"Core subject revision plus 150 LeetCode problems, then system design from case studies",8,LeetCode; system design primers; official docs,Practice speaking system design out loud
+29,29,"DSA daily for 10 weeks, one mock interview per week, project walkthrough rehearsed aloud",8,Striver DSA sheet; NPTEL lectures; InterviewBit mocks,Practice speaking system design out loud
+30,30,"DSA daily for 10 weeks, one mock interview per week, project walkthrough rehearsed aloud",10,Pramp mocks; DDIA book chapters; GitHub projects,Practice speaking system design out loud
+31,31,"Focused on two strong projects, practiced explaining trade-offs, did peer mocks",12,LeetCode; system design primers; official docs,Be ready to justify why you chose that elective
+32,32,"DSA daily for 10 weeks, one mock interview per week, project walkthrough rehearsed aloud",4,Striver DSA sheet; NPTEL lectures; InterviewBit mocks,Be ready to justify why you chose that elective
+33,33,"Revised core CS, SQL and one cloud platform; solved company-specific past papers",4,LeetCode; system design primers; official docs,"Explain metrics, not just models"
+34,34,"Focused on two strong projects, practiced explaining trade-offs, did peer mocks",8,Striver DSA sheet; NPTEL lectures; InterviewBit mocks,Practice speaking system design out loud
+35,35,"Focused on two strong projects, practiced explaining trade-offs, did peer mocks",6,LeetCode; system design primers; official docs,Know your project's failure cases
+36,36,"Core subject revision plus 150 LeetCode problems, then system design from case studies",8,LeetCode; system design primers; official docs,Be ready to justify why you chose that elective
+37,37,"Revised core CS, SQL and one cloud platform; solved company-specific past papers",6,LeetCode; system design primers; official docs,"Explain metrics, not just models"
+38,38,"Revised core CS, SQL and one cloud platform; solved company-specific past papers",8,LeetCode; system design primers; official docs,"Explain metrics, not just models"
+39,39,"Revised core CS, SQL and one cloud platform; solved company-specific past papers",10,GfG company archives; Kaggle notebooks; university slides,Practice speaking system design out loud
+40,40,"Focused on two strong projects, practiced explaining trade-offs, did peer mocks",12,GfG company archives; Kaggle notebooks; university slides,Be ready to justify why you chose that elective
+41,41,"Core subject revision plus 150 LeetCode problems, then system design from case studies",12,Striver DSA sheet; NPTEL lectures; InterviewBit mocks,Revise SQL joins and window functions the night before
+42,42,"Revised core CS, SQL and one cloud platform; solved company-specific past papers",4,Striver DSA sheet; NPTEL lectures; InterviewBit mocks,Know your project's failure cases
+43,43,"Revised core CS, SQL and one cloud platform; solved company-specific past papers",12,Striver DSA sheet; NPTEL lectures; InterviewBit mocks,"Explain metrics, not just models"
+44,44,"DSA daily for 10 weeks, one mock interview per week, project walkthrough rehearsed aloud",10,LeetCode; system design primers; official docs,Be ready to justify why you chose that elective
+45,45,"Core subject revision plus 150 LeetCode problems, then system design from case studies",12,Striver DSA sheet; NPTEL lectures; InterviewBit mocks,"Explain metrics, not just models"
+46,46,"Revised core CS, SQL and one cloud platform; solved company-specific past papers",4,Pramp mocks; DDIA book chapters; GitHub projects,Be ready to justify why you chose that elective
+47,47,"DSA daily for 10 weeks, one mock interview per week, project walkthrough rehearsed aloud",6,Striver DSA sheet; NPTEL lectures; InterviewBit mocks,"Explain metrics, not just models"
+48,48,"DSA daily for 10 weeks, one mock interview per week, project walkthrough rehearsed aloud",6,Pramp mocks; DDIA book chapters; GitHub projects,Be ready to justify why you chose that elective
+49,49,"Revised core CS, SQL and one cloud platform; solved company-specific past papers",8,LeetCode; system design primers; official docs,"Explain metrics, not just models"
+50,50,"Revised core CS, SQL and one cloud platform; solved company-specific past papers",12,GfG company archives; Kaggle notebooks; university slides,Know your project's failure cases
+51,51,"Core subject revision plus 150 LeetCode problems, then system design from case studies",4,Pramp mocks; DDIA book chapters; GitHub projects,Practice speaking system design out loud
+52,52,"Core subject revision plus 150 LeetCode problems, then system design from case studies",4,Striver DSA sheet; NPTEL lectures; InterviewBit mocks,Know your project's failure cases
+53,53,"Revised core CS, SQL and one cloud platform; solved company-specific past papers",8,Striver DSA sheet; NPTEL lectures; InterviewBit mocks,Be ready to justify why you chose that elective
+54,54,"Focused on two strong projects, practiced explaining trade-offs, did peer mocks",4,Striver DSA sheet; NPTEL lectures; InterviewBit mocks,Be ready to justify why you chose that elective
+55,55,"Focused on two strong projects, practiced explaining trade-offs, did peer mocks",4,Striver DSA sheet; NPTEL lectures; InterviewBit mocks,Revise SQL joins and window functions the night before
+56,56,"Revised core CS, SQL and one cloud platform; solved company-specific past papers",12,Pramp mocks; DDIA book chapters; GitHub projects,Be ready to justify why you chose that elective
+57,57,"Focused on two strong projects, practiced explaining trade-offs, did peer mocks",4,Striver DSA sheet; NPTEL lectures; InterviewBit mocks,Be ready to justify why you chose that elective
+58,58,"DSA daily for 10 weeks, one mock interview per week, project walkthrough rehearsed aloud",12,Pramp mocks; DDIA book chapters; GitHub projects,Know your project's failure cases
+59,59,"Revised core CS, SQL and one cloud platform; solved company-specific past papers",10,Striver DSA sheet; NPTEL lectures; InterviewBit mocks,Be ready to justify why you chose that elective
+60,60,"Focused on two strong projects, practiced explaining trade-offs, did peer mocks",6,Striver DSA sheet; NPTEL lectures; InterviewBit mocks,Know your project's failure cases

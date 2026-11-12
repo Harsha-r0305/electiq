@@ -1,0 +1,6 @@
+package_tier,seniors,avg_cgpa,pct_with_publication,pct_hackathon_win,avg_prep_hours
+50+ LPA,3,9.26,100,33,167
+35-50 LPA,7,8.98,57,29,124
+20-35 LPA,14,8.57,21,36,134
+12-20 LPA,20,8.08,0,15,180
+5-12 LPA,16,7.51,0,19,133

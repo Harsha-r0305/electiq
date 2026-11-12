@@ -1,0 +1,95 @@
+skill_id,name
+1,Python
+2,PyTorch
+3,TensorFlow/Keras
+4,ML theory
+5,Linear algebra and optimization
+6,Research methods
+7,Transformers
+8,LLM fine-tuning
+9,RAG
+10,RLHF/DPO
+11,LLM evaluation
+12,Multimodal models
+13,Prompt engineering
+14,Agent patterns
+15,Tool use
+16,Multi-agent systems
+17,Agent frameworks
+18,Agent protocols
+19,Guardrails and agent evals
+20,Structured outputs
+21,ML pipelines/CI-CD
+22,Model serving
+23,Drift monitoring
+24,LLMOps observability
+25,Docker/Kubernetes
+26,Feature stores
+27,Spark
+28,Kafka/streaming
+29,Lakehouse
+30,SQL/data modeling
+31,Data governance
+32,Data analytics/visualization
+33,Business ML
+34,Time series
+35,Fairness/bias
+36,Privacy/compliance
+37,Explainability
+38,Differential privacy
+39,Federated learning
+40,Adversarial ML
+41,LLM security
+42,AI governance
+43,Image processing
+44,CNNs
+45,Object detection
+46,Generative image models
+47,Deep RL
+48,Policy gradient
+49,Multi-agent RL
+50,Graph neural nets
+51,Knowledge graphs
+52,Social network analysis
+53,Text mining/NLP
+54,Medical imaging DL
+55,Cheminformatics
+56,Genomics/proteins
+57,Drug discovery generative
+58,Model compression
+59,TinyML deployment
+60,Efficient architectures
+61,Quant finance ML
+62,Operations research
+63,Demand forecasting
+64,Secure coding
+65,Threat modelling
+66,Web security
+67,Penetration testing
+68,Malware analysis
+69,Digital forensics
+70,SOC/SIEM
+71,Incident response
+72,Cloud security
+73,Network security
+74,Applied cryptography
+75,Smart contracts
+76,Consensus protocols
+77,Platform security (TEE)
+78,Firmware/SoC
+79,Linux internals
+80,IoT protocols
+81,RTOS
+82,Embedded C
+83,ROS/ROS2
+84,SLAM/navigation
+85,Robot perception
+86,Wireless/5G
+87,Vehicle networks
+88,Digital twins/simulation
+89,3D view synthesis
+90,AR/VR development
+91,Photonics design
+92,Quantum computing
+93,Speech processing
+94,Signal processing

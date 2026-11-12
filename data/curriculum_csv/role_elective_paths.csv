@@ -1,0 +1,157 @@
+role_id,role,rank,course_id,code,title,elective_slot,skill_match_pct
+1,ML Engineer,1,12,UE24AM342AA5,ML System Design and AgentOps,Elective I,40
+1,ML Engineer,2,10,UE24AM342AA1,Advanced Foundations for ML,Elective I,40
+1,ML Engineer,3,41,UE24AM343BB1,Interdisciplinary Deep Learning for Graphs,Elective IV,28
+1,ML Engineer,4,30,UE24AM342BA1,"LLM and Their Applications: Design, Optimization, and Evaluation",Elective III,28
+1,ML Engineer,5,31,UE24AM342BA2,Deep Reinforcement Learning,Elective III,23
+1,ML Engineer,6,20,UE24AM343AB1,Advanced Data Analytics,Elective II,21
+2,GenAI / LLM Engineer,1,30,UE24AM342BA1,"LLM and Their Applications: Design, Optimization, and Evaluation",Elective III,79
+2,GenAI / LLM Engineer,2,41,UE24AM343BB1,Interdisciplinary Deep Learning for Graphs,Elective IV,20
+2,GenAI / LLM Engineer,3,46,UE24AM343BB6,Agentic AI and Multi-Agent AI System,Elective IV,18
+2,GenAI / LLM Engineer,4,12,UE24AM342AA5,ML System Design and AgentOps,Elective I,17
+2,GenAI / LLM Engineer,5,33,UE24AM342BA4,Deep Learning for Images,Elective III,16
+2,GenAI / LLM Engineer,6,31,UE24AM342BA2,Deep Reinforcement Learning,Elective III,16
+3,AI Agent Engineer,1,46,UE24AM343BB6,Agentic AI and Multi-Agent AI System,Elective IV,80
+3,AI Agent Engineer,2,30,UE24AM342BA1,"LLM and Their Applications: Design, Optimization, and Evaluation",Elective III,18
+3,AI Agent Engineer,3,12,UE24AM342AA5,ML System Design and AgentOps,Elective I,16
+3,AI Agent Engineer,4,45,UE24AM343BB5,Supply Chain Analytics and Optimization with AI,Elective IV,12
+3,AI Agent Engineer,5,44,UE24AM343BB4,Machine Learning for Finance,Elective IV,12
+3,AI Agent Engineer,6,48,UE24CS343BB7,Mobile Autonomous Robotics,Elective IV,8
+4,MLOps / ML Platform Engineer,1,12,UE24AM342AA5,ML System Design and AgentOps,Elective I,86
+4,MLOps / ML Platform Engineer,2,48,UE24CS343BB7,Mobile Autonomous Robotics,Elective IV,8
+4,MLOps / ML Platform Engineer,3,46,UE24AM343BB6,Agentic AI and Multi-Agent AI System,Elective IV,8
+4,MLOps / ML Platform Engineer,4,45,UE24AM343BB5,Supply Chain Analytics and Optimization with AI,Elective IV,8
+4,MLOps / ML Platform Engineer,5,44,UE24AM343BB4,Machine Learning for Finance,Elective IV,8
+4,MLOps / ML Platform Engineer,6,43,UE24AM343BB3,Foundations of Frugal Artificial Intelligence,Elective IV,8
+5,Data Engineer,1,21,UE24AM343AB3,Big Data Systems and Responsible AI Engineering,Elective II,75
+5,Data Engineer,2,20,UE24AM343AB1,Advanced Data Analytics,Elective II,22
+5,Data Engineer,3,11,UE24AM342AA4,Machine Learning with Business Data,Elective I,22
+5,Data Engineer,4,48,UE24CS343BB7,Mobile Autonomous Robotics,Elective IV,10
+5,Data Engineer,5,46,UE24AM343BB6,Agentic AI and Multi-Agent AI System,Elective IV,10
+5,Data Engineer,6,45,UE24AM343BB5,Supply Chain Analytics and Optimization with AI,Elective IV,10
+6,Data Scientist / Analyst,1,20,UE24AM343AB1,Advanced Data Analytics,Elective II,65
+6,Data Scientist / Analyst,2,11,UE24AM342AA4,Machine Learning with Business Data,Elective I,65
+6,Data Scientist / Analyst,3,44,UE24AM343BB4,Machine Learning for Finance,Elective IV,27
+6,Data Scientist / Analyst,4,10,UE24AM342AA1,Advanced Foundations for ML,Elective I,23
+6,Data Scientist / Analyst,5,45,UE24AM343BB5,Supply Chain Analytics and Optimization with AI,Elective IV,21
+6,Data Scientist / Analyst,6,39,UE24CS342BA7,Digital Twins,Elective III,16
+7,Applied AI Scientist,1,10,UE24AM342AA1,Advanced Foundations for ML,Elective I,55
+7,Applied AI Scientist,2,30,UE24AM342BA1,"LLM and Their Applications: Design, Optimization, and Evaluation",Elective III,44
+7,Applied AI Scientist,3,41,UE24AM343BB1,Interdisciplinary Deep Learning for Graphs,Elective IV,23
+7,Applied AI Scientist,4,31,UE24AM342BA2,Deep Reinforcement Learning,Elective III,18
+7,Applied AI Scientist,5,33,UE24AM342BA4,Deep Learning for Images,Elective III,16
+7,Applied AI Scientist,6,28,UE24EC343AB3,Quantum Entanglement and Quantum Computing,Elective II,11
+8,Responsible AI / AI Governance,1,40,UE24CS342BA8,Responsible AI,Elective III,79
+8,Responsible AI / AI Governance,2,21,UE24AM343AB3,Big Data Systems and Responsible AI Engineering,Elective II,30
+8,Responsible AI / AI Governance,3,35,UE24AM342BA6,Privacy Preserving Machine Learning,Elective III,26
+8,Responsible AI / AI Governance,4,32,UE24AM342BA3,Explainable AI,Elective III,20
+8,Responsible AI / AI Governance,5,42,UE24AM343BB2,Social Computing,Elective IV,6
+9,Computer Vision Engineer,1,33,UE24AM342BA4,Deep Learning for Images,Elective III,78
+9,Computer Vision Engineer,2,18,UE24EC342AC1,Digital Image Processing,Elective I,23
+9,Computer Vision Engineer,3,41,UE24AM343BB1,Interdisciplinary Deep Learning for Graphs,Elective IV,23
+9,Computer Vision Engineer,4,30,UE24AM342BA1,"LLM and Their Applications: Design, Optimization, and Evaluation",Elective III,23
+9,Computer Vision Engineer,5,31,UE24AM342BA2,Deep Reinforcement Learning,Elective III,18
+9,Computer Vision Engineer,6,48,UE24CS343BB7,Mobile Autonomous Robotics,Elective IV,9
+10,RL / Decision-AI Engineer,1,31,UE24AM342BA2,Deep Reinforcement Learning,Elective III,72
+10,RL / Decision-AI Engineer,2,45,UE24AM343BB5,Supply Chain Analytics and Optimization with AI,Elective IV,36
+10,RL / Decision-AI Engineer,3,41,UE24AM343BB1,Interdisciplinary Deep Learning for Graphs,Elective IV,27
+10,RL / Decision-AI Engineer,4,30,UE24AM342BA1,"LLM and Their Applications: Design, Optimization, and Evaluation",Elective III,27
+10,RL / Decision-AI Engineer,5,44,UE24AM343BB4,Machine Learning for Finance,Elective IV,24
+10,RL / Decision-AI Engineer,6,48,UE24CS343BB7,Mobile Autonomous Robotics,Elective IV,11
+11,Quant / FinTech ML Engineer,1,44,UE24AM343BB4,Machine Learning for Finance,Elective IV,70
+11,Quant / FinTech ML Engineer,2,45,UE24AM343BB5,Supply Chain Analytics and Optimization with AI,Elective IV,36
+11,Quant / FinTech ML Engineer,3,20,UE24AM343AB1,Advanced Data Analytics,Elective II,27
+11,Quant / FinTech ML Engineer,4,11,UE24AM342AA4,Machine Learning with Business Data,Elective I,27
+11,Quant / FinTech ML Engineer,5,31,UE24AM342BA2,Deep Reinforcement Learning,Elective III,26
+11,Quant / FinTech ML Engineer,6,10,UE24AM342AA1,Advanced Foundations for ML,Elective I,26
+12,Supply Chain AI Engineer,1,45,UE24AM343BB5,Supply Chain Analytics and Optimization with AI,Elective IV,83
+12,Supply Chain AI Engineer,2,44,UE24AM343BB4,Machine Learning for Finance,Elective IV,41
+12,Supply Chain AI Engineer,3,31,UE24AM342BA2,Deep Reinforcement Learning,Elective III,27
+12,Supply Chain AI Engineer,4,20,UE24AM343AB1,Advanced Data Analytics,Elective II,25
+12,Supply Chain AI Engineer,5,11,UE24AM342AA4,Machine Learning with Business Data,Elective I,25
+12,Supply Chain AI Engineer,6,39,UE24CS342BA7,Digital Twins,Elective III,19
+13,Graph ML / NLP Engineer,1,41,UE24AM343BB1,Interdisciplinary Deep Learning for Graphs,Elective IV,57
+13,Graph ML / NLP Engineer,2,42,UE24AM343BB2,Social Computing,Elective IV,54
+13,Graph ML / NLP Engineer,3,30,UE24AM342BA1,"LLM and Their Applications: Design, Optimization, and Evaluation",Elective III,30
+13,Graph ML / NLP Engineer,4,33,UE24AM342BA4,Deep Learning for Images,Elective III,20
+13,Graph ML / NLP Engineer,5,34,UE24AM342BA5,Deep Learning for Life Sciences,Elective III,19
+13,Graph ML / NLP Engineer,6,19,UE24EC342AC2,Speech and Natural Language Processing,Elective I,17
+14,Edge AI / TinyML Engineer,1,43,UE24AM343BB3,Foundations of Frugal Artificial Intelligence,Elective IV,85
+14,Edge AI / TinyML Engineer,2,48,UE24CS343BB7,Mobile Autonomous Robotics,Elective IV,15
+14,Edge AI / TinyML Engineer,3,26,UE24CS343AB9,Design of RTOS,Elective II,15
+14,Edge AI / TinyML Engineer,4,46,UE24AM343BB6,Agentic AI and Multi-Agent AI System,Elective IV,10
+14,Edge AI / TinyML Engineer,5,45,UE24AM343BB5,Supply Chain Analytics and Optimization with AI,Elective IV,10
+14,Edge AI / TinyML Engineer,6,44,UE24AM343BB4,Machine Learning for Finance,Elective IV,10
+15,Healthcare / Bioinformatics AI Scientist,1,34,UE24AM342BA5,Deep Learning for Life Sciences,Elective III,89
+15,Healthcare / Bioinformatics AI Scientist,2,41,UE24AM343BB1,Interdisciplinary Deep Learning for Graphs,Elective IV,19
+15,Healthcare / Bioinformatics AI Scientist,3,30,UE24AM342BA1,"LLM and Their Applications: Design, Optimization, and Evaluation",Elective III,19
+15,Healthcare / Bioinformatics AI Scientist,4,33,UE24AM342BA4,Deep Learning for Images,Elective III,13
+15,Healthcare / Bioinformatics AI Scientist,5,31,UE24AM342BA2,Deep Reinforcement Learning,Elective III,13
+15,Healthcare / Bioinformatics AI Scientist,6,19,UE24EC342AC2,Speech and Natural Language Processing,Elective I,6
+16,Application Security Engineer,1,47,UE24CS343BB6,Information Security,Elective IV,79
+16,Application Security Engineer,2,24,UE24CS343AB6,Computer Network Security,Elective II,21
+16,Application Security Engineer,3,14,UE24CS342AA4,Applied Cryptography,Elective I,19
+16,Application Security Engineer,4,37,UE24CS342BA5,Block Chain,Elective III,15
+16,Application Security Engineer,5,36,UE24CS342BA3,Design of Secure Platform and Systems,Elective III,8
+16,Application Security Engineer,6,49,UE24CS343BB8,Cybersecurity in Cloud,Elective IV,7
+17,SOC / Threat Analyst,1,50,UE24CS343BB12,SOC and Threat Intelligence,Elective IV,73
+17,SOC / Threat Analyst,2,38,UE24CS342BA6,Digital Forensics and Incident Response,Elective III,43
+17,SOC / Threat Analyst,3,24,UE24CS343AB6,Computer Network Security,Elective II,20
+17,SOC / Threat Analyst,4,49,UE24CS343BB8,Cybersecurity in Cloud,Elective IV,13
+17,SOC / Threat Analyst,5,23,UE24CS343AB5,Intelligent Vehicle: Connectivity and Cyber Security,Elective II,13
+17,SOC / Threat Analyst,6,14,UE24CS342AA4,Applied Cryptography,Elective I,13
+18,Cloud Security Engineer,1,49,UE24CS343BB8,Cybersecurity in Cloud,Elective IV,54
+18,Cloud Security Engineer,2,50,UE24CS343BB12,SOC and Threat Intelligence,Elective IV,31
+18,Cloud Security Engineer,3,24,UE24CS343AB6,Computer Network Security,Elective II,28
+18,Cloud Security Engineer,4,23,UE24CS343AB5,Intelligent Vehicle: Connectivity and Cyber Security,Elective II,20
+18,Cloud Security Engineer,5,38,UE24CS342BA6,Digital Forensics and Incident Response,Elective III,19
+18,Cloud Security Engineer,6,47,UE24CS343BB6,Information Security,Elective IV,17
+19,Digital Forensics Analyst,1,38,UE24CS342BA6,Digital Forensics and Incident Response,Elective III,61
+19,Digital Forensics Analyst,2,50,UE24CS343BB12,SOC and Threat Intelligence,Elective IV,47
+19,Digital Forensics Analyst,3,47,UE24CS343BB6,Information Security,Elective IV,24
+19,Digital Forensics Analyst,4,36,UE24CS342BA3,Design of Secure Platform and Systems,Elective III,12
+19,Digital Forensics Analyst,5,24,UE24CS343AB6,Computer Network Security,Elective II,12
+19,Digital Forensics Analyst,6,49,UE24CS343BB8,Cybersecurity in Cloud,Elective IV,8
+20,Blockchain Developer,1,37,UE24CS342BA5,Block Chain,Elective III,79
+20,Blockchain Developer,2,14,UE24CS342AA4,Applied Cryptography,Elective I,25
+20,Blockchain Developer,3,47,UE24CS343BB6,Information Security,Elective IV,19
+20,Blockchain Developer,4,36,UE24CS342BA3,Design of Secure Platform and Systems,Elective III,17
+20,Blockchain Developer,5,24,UE24CS343AB6,Computer Network Security,Elective II,17
+21,Embedded / IoT / RTOS Engineer,1,26,UE24CS343AB9,Design of RTOS,Elective II,57
+21,Embedded / IoT / RTOS Engineer,2,13,UE24CS342AA3,Internet of Things,Elective I,47
+21,Embedded / IoT / RTOS Engineer,3,27,UE24EC343AB2,Real Time Operating Systems,Elective II,42
+21,Embedded / IoT / RTOS Engineer,4,36,UE24CS342BA3,Design of Secure Platform and Systems,Elective III,37
+21,Embedded / IoT / RTOS Engineer,5,16,UE24CS342AA7,Modern Wireless and 5G Systems,Elective I,10
+21,Embedded / IoT / RTOS Engineer,6,48,UE24CS343BB7,Mobile Autonomous Robotics,Elective IV,8
+22,Robotics / Autonomous Systems Engineer,1,48,UE24CS343BB7,Mobile Autonomous Robotics,Elective IV,78
+22,Robotics / Autonomous Systems Engineer,2,25,UE24CS343AB7,ROS for Autonomous Systems,Elective II,53
+22,Robotics / Autonomous Systems Engineer,3,29,UE24EC343AC2,Robotic Systems: From Arms to Drones,Elective II,35
+22,Robotics / Autonomous Systems Engineer,4,43,UE24AM343BB3,Foundations of Frugal Artificial Intelligence,Elective IV,15
+22,Robotics / Autonomous Systems Engineer,5,26,UE24CS343AB9,Design of RTOS,Elective II,12
+22,Robotics / Autonomous Systems Engineer,6,23,UE24CS343AB5,Intelligent Vehicle: Connectivity and Cyber Security,Elective II,12
+23,Platform / Firmware Security Engineer,1,36,UE24CS342BA3,Design of Secure Platform and Systems,Elective III,82
+23,Platform / Firmware Security Engineer,2,26,UE24CS343AB9,Design of RTOS,Elective II,26
+23,Platform / Firmware Security Engineer,3,13,UE24CS342AA3,Internet of Things,Elective I,20
+23,Platform / Firmware Security Engineer,4,14,UE24CS342AA4,Applied Cryptography,Elective I,18
+23,Platform / Firmware Security Engineer,5,47,UE24CS343BB6,Information Security,Elective IV,12
+23,Platform / Firmware Security Engineer,6,37,UE24CS342BA5,Block Chain,Elective III,12
+24,Wireless / 5G Engineer,1,16,UE24CS342AA7,Modern Wireless and 5G Systems,Elective I,58
+24,Wireless / 5G Engineer,2,13,UE24CS342AA3,Internet of Things,Elective I,31
+24,Wireless / 5G Engineer,3,24,UE24CS343AB6,Computer Network Security,Elective II,20
+24,Wireless / 5G Engineer,4,19,UE24EC342AC2,Speech and Natural Language Processing,Elective I,18
+24,Wireless / 5G Engineer,5,18,UE24EC342AC1,Digital Image Processing,Elective I,18
+24,Wireless / 5G Engineer,6,50,UE24CS343BB12,SOC and Threat Intelligence,Elective IV,13
+25,AR/VR / Digital Twin Engineer,1,39,UE24CS342BA7,Digital Twins,Elective III,56
+25,AR/VR / Digital Twin Engineer,2,15,UE24CS342AA5,Augmented and Virtual Reality,Elective I,44
+25,AR/VR / Digital Twin Engineer,3,33,UE24AM342BA4,Deep Learning for Images,Elective III,12
+25,AR/VR / Digital Twin Engineer,4,18,UE24EC342AC1,Digital Image Processing,Elective I,12
+26,Speech / NLP Engineer,1,19,UE24EC342AC2,Speech and Natural Language Processing,Elective I,59
+26,Speech / NLP Engineer,2,42,UE24AM343BB2,Social Computing,Elective IV,33
+26,Speech / NLP Engineer,3,30,UE24AM342BA1,"LLM and Their Applications: Design, Optimization, and Evaluation",Elective III,33
+26,Speech / NLP Engineer,4,33,UE24AM342BA4,Deep Learning for Images,Elective III,22
+26,Speech / NLP Engineer,5,41,UE24AM343BB1,Interdisciplinary Deep Learning for Graphs,Elective IV,17
+26,Speech / NLP Engineer,6,34,UE24AM342BA5,Deep Learning for Life Sciences,Elective III,11
+27,Quantum / Photonics Engineer,1,28,UE24EC343AB3,Quantum Entanglement and Quantum Computing,Elective II,54
+27,Quantum / Photonics Engineer,2,17,UE24EC342AB4,Chip level Photonics,Elective I,38
+27,Quantum / Photonics Engineer,3,10,UE24AM342AA1,Advanced Foundations for ML,Elective I,23
+27,Quantum / Photonics Engineer,4,29,UE24EC343AC2,Robotic Systems: From Arms to Drones,Elective II,8
